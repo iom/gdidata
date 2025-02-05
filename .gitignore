@@ -1,0 +1,7 @@
+.DS_Store
+data-raw
+.Rbuildignore
+.RData
+.Rproj.user/
+.Rhistory
+
