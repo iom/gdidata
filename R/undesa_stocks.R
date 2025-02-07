@@ -1,7 +1,7 @@
-#' International Migrant Stocks
+#' International Migrant Stock
 #'
-#' Count of migrant population in countries, areas, and territories by place of
-#' origin and sex, as estimated by UN DESA.
+#' Count of migrant population in 233 countries, areas, and territories by place
+#' of origin and sex from 1990 to 2024, as estimated by UN DESA.
 #'
 #' \describe{
 #'   \item{t}{year}
@@ -19,7 +19,9 @@
 #'   statistics, usually population censuses, as well as nationally
 #'   representative surveys. Data is available at 5-year intervals from 1990 to
 #'   2020, and then for 2024. Counts are as of July 1st of the given year.
-#'   Estimates are as of 27 January 2024.
+#'   Estimates are as of 27 January 2024. Original data files were downloaded
+#'   from
+#'   https://www.un.org/development/desa/pd/content/international-migrant-stock.
 #'
 #'   Note that `from`–`sex` combinations that are not present for a given
 #'   country means that insufficient data exist to estimate their presence, not

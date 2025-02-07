@@ -3,7 +3,7 @@
 \docType{data}
 \name{undesa_stocks}
 \alias{undesa_stocks}
-\title{International Migrant Stocks}
+\title{International Migrant Stock}
 \format{
 An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 153296 rows and 9 columns.
 }
@@ -14,8 +14,8 @@ United Nations Department of Economic and Social Affairs.
 undesa_stocks
 }
 \description{
-Count of migrant population in countries, areas, and territories by place of
-origin and sex, as estimated by UN DESA.
+Count of migrant population in 233 countries, areas, and territories by place
+of origin and sex from 1990 to 2024, as estimated by UN DESA.
 }
 \details{
 \describe{
@@ -34,7 +34,9 @@ UN DESA estimates international migrant stocks from national
 statistics, usually population censuses, as well as nationally
 representative surveys. Data is available at 5-year intervals from 1990 to
 2020, and then for 2024. Counts are as of July 1st of the given year.
-Estimates are as of 27 January 2024.
+Estimates are as of 27 January 2024. Original data files were downloaded
+from
+https://www.un.org/development/desa/pd/content/international-migrant-stock.
 
 Note that \code{from}–\code{sex} combinations that are not present for a given
 country means that insufficient data exist to estimate their presence, not
