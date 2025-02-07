@@ -1,7 +1,8 @@
 #' Various Country-Level Indicators
 #'
-#' A collection of annual country-level indicators from the UN World Population
-#' Prospect, World Bank and the Fund for Peace.
+#' A collection of annual country-level indicators from the World Bank World
+#' Development Indicators, supplemented with population data from the UN World
+#' Population Prospects
 #'
 #' \describe{
 #'   \item{t}{year}
@@ -29,10 +30,6 @@
 #'       resident producers in the economy plus any product taxes minus any
 #'       subsidies not included in the value of products, in current U.S.
 #'       dollars (https://data.worldbank.org/indicator/NY.GDP.MKTP.CD).
-#'     \item **Group Grievance Index** (`grieve`): measure of divisions and
-#'       schisms between different groups in society and their role in access
-#'       to services and inclusion in the political process
-#'       (https://fragilestatesindex.org/excel/).
 #'     \item **GDP per capita, PPP constant 2021 international $** (`income`):
 #'       gross domestic product per capita converted to international dollars
 #'       using purchasing power parity rates
@@ -52,8 +49,7 @@
 #'     \item **Population** (`pop`): midyear count of all residents regardless
 #'       of legal status or citizenship from the UN World Population Prospect
 #'       2024 update
-#'       (https://www.un.org/development/desa/pd/content/international-migrant-
-#'       stock)
+#'       (https://www.un.org/development/desa/pd/content/international-migrant-stock)
 #'     \item **Personal remittances received** (`remin`): comprise personal
 #'       transfers and compensation of employees in cash or in kind from
 #'       nonresident households to resident households in current U.S. dollars
@@ -67,5 +63,5 @@
 #'       (https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS).
 #'   }
 #'
-#' @source UN World Population Prospect; World Bank; The Fund for Peace
-"indicators"
+#' @source World Bank; UN World Population Prospect
+"wdi"

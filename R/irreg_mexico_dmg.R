@@ -5,7 +5,7 @@
 #' (INM) for not accrediting their immigration status and those who were
 #' channeled by this same authority to the shelters of the *Sistema Nacional para
 #' el Desarrollo Integral de la Familia* (DIF) network, with PAM initiated, by
-#' sex and age. See `dtm_mex_nat` for the same dataset with breakdown by country
+#' sex and age. See `irreg_mexico_nat` for the same dataset with breakdown by country
 #' of origin.
 #'
 #' \describe{
@@ -27,4 +27,4 @@
 #'   Last updated 17 October 2024.
 #'
 #' @source México Unidad de Política Migratoria, *Boletines Estadísticos*.
-"dtm_mex_dmg"
+"irreg_mexico_dmg"
