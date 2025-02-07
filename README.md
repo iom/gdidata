@@ -76,7 +76,7 @@ Dates indicate last update by data provider, where available.
     2024 update.
     \[[Source](https://www.un.org/development/desa/pd/content/international-migrant-stock)\]
 
-  - P*ersonal remittances received* (`remin`): comprise personal
+  - *Personal remittances received* (`remin`): comprise personal
     transfers and compensation of employees in cash or in kind from
     nonresident households to resident households in current U.S.
     dollars.
@@ -116,6 +116,13 @@ Dates indicate last update by data provider, where available.
   Deaths and disappearances of people in the process of migration
   towards an international destination.
   \[[Source](https://missingmigrants.iom.int/downloads), 2025-01-08\]
+
+- **Monthly Detections of Illegal Border Crossings** (`frontex`)
+
+  Government detections of illegal border crossings into Mediterranean
+  countries, as compiled by Frontex.
+  \[[Source](https://www.frontex.europa.eu/what-we-do/monitoring-and-risk-analysis/migratory-map/),
+  2025-01-07\]
 
 - **U.S. Southwest Land Border Encounters** (`irreg_usa`)
 
