@@ -30,7 +30,7 @@ Dates indicate last update by data provider, where available.
   Population Prospects 2024 update.
   \[[Source](https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=CSV%20format)\]
 
-- **World Development Indicators** (`indicators`)
+- **World Development Indicators** (`wdi`)
 
   Collection of annual country-level indicators from the World Bank.
 
