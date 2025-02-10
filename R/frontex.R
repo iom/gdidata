@@ -15,7 +15,7 @@
 #'
 #' Original data file downloaded from
 #' https://www.frontex.europa.eu/what-we-do/monitoring-and-risk-analysis/migratory-map/.
-#' Last updated 7 January 2025.
+#' Data is as of 4 February 2025.
 #'
 #' The data refer to detections of illegal border-crossing rather than the
 #' number of persons, as the same person may cross the external border several

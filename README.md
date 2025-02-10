@@ -122,7 +122,7 @@ Dates indicate last update by data provider, where available.
   Government detections of illegal border crossings into Mediterranean
   countries, as compiled by Frontex.
   \[[Source](https://www.frontex.europa.eu/what-we-do/monitoring-and-risk-analysis/migratory-map/),
-  2025-01-07\]
+  2025-02-04\]
 
 - **U.S. Southwest Land Border Encounters** (`irreg_usa`)
 
