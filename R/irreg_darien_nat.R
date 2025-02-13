@@ -1,6 +1,6 @@
-#' Irregular Transits Through Darien: Nationality
+#' Irregular Transits Through Darién: Nationality
 #'
-#' Monthly count of irregular transits through the Darien region of Panama, by
+#' Monthly count of irregular transits through the Darién region of Panama, by
 #' nationality. See `irreg_darien_dmg` for the same dataset with breakdown by
 #' sex and age.
 #'

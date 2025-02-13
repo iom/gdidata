@@ -1,6 +1,6 @@
-#' Irregular Transits Through Darien: Demographics
+#' Irregular Transits Through Darién: Demographics
 #'
-#' Monthly count of irregular transits through the Darien region of Panama, by
+#' Monthly count of irregular transits through the Darién region of Panama, by
 #' sex and age See `irreg_darien_nat` for the same dataset with breakdown by
 #' nationality.
 #'
@@ -19,4 +19,4 @@
 #'   Data as of 31 December 2024. Last updated 13 February 2025.
 #'
 #' @source Panama Servicio Nacional de Migración \[National Migration Service\].
-"irreg_darien_nat"
+"irreg_darien_dmg"
