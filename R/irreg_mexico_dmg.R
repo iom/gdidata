@@ -26,5 +26,5 @@
 #'
 #'   Last updated 17 October 2024.
 #'
-#' @source México Unidad de Política Migratoria, *Boletines Estadísticos*.
+#' @source México Unidad de Política Migratoria \[Migration Policy Unit \].
 "irreg_mexico_dmg"

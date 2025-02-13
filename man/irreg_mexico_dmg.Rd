@@ -8,7 +8,7 @@
 An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 640 rows and 5 columns.
 }
 \source{
-México Unidad de Política Migratoria, \emph{Boletines Estadísticos}.
+México Unidad de Política Migratoria [Migration Policy Unit ].
 }
 \usage{
 irreg_mexico_dmg
