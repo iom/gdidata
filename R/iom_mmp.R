@@ -21,7 +21,7 @@
 #' @details Period covered is currently Jan 2014 to Dec 2024. The latest data is
 #'   downloaded from https://missingmigrants.iom.int/downloads.
 #'
-#'   Last updated 8 January 2025.
+#'   Last updated 16 February 2025.
 #'
 #' @source IOM Missing Migrants Project.
 "iom_mmp"
