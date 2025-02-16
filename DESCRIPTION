@@ -1,7 +1,7 @@
 Package: gdidata
 Type: Package
 Title: Repository of Datasets for IOM GDI Projects
-Version: 0.3.0
+Version: 0.3.1
 Author: Kenneth S. Reyes
 Maintainer: Kenneth S. Reyes <kereyes@iom.in>
 Description: Repository of cleaned IOM and non-IOM datasets stored as R dataframes.
