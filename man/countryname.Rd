@@ -22,7 +22,7 @@ String or vector of strings.
 }
 \description{
 Easily convert a country name to its ISO code and vice versa.
-Official United Nations country names are used. See \code{countrynames} for full
+Official United Nations country names are used. See \code{gdidata::countrynames} for full
 dictionary.
 }
 \details{

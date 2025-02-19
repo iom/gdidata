@@ -1,7 +1,7 @@
 #' Toggle between country names and ISO codes
 #'
 #' @description Easily convert a country name to its ISO code and vice versa.
-#'   Official United Nations country names are used. See `countrynames` for full
+#'   Official United Nations country names are used. See `gdidata::countrynames` for full
 #'   dictionary.
 #'
 #' @details Under the default `exact = FALSE`, matching is done using
@@ -51,7 +51,7 @@ countryname <- function(key,
                         quiet = FALSE) {
 
   # Check if types are valid
-  valid_types <- colnames(countrynames)
+  valid_types <- colnames(gdidata::countrynames)
   if(!all(c(from, to) %in% valid_types)) {
     invalid <- c()
     if (!(from %in% valid_types)) {
@@ -77,8 +77,8 @@ countryname <- function(key,
 
   for (k in key) {
 
-    from_col <- countrynames[{from}] |> unlist() |> unname()
-    to_col <- countrynames[{to}] |> unlist() |> unname()
+    from_col <- gdidata::countrynames[{from}] |> unlist() |> unname()
+    to_col <- gdidata::countrynames[{to}] |> unlist() |> unname()
 
     if (exact) {
       row <- which(tolower(from_col) == tolower(k))
