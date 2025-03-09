@@ -53,7 +53,7 @@ Dates indicate last update by data provider, where available.
 - **Migrant Stock Estimates** (`undesa_stocks`)
 
   Count of migrant population in 233 countries, areas, and territories by place of origin and sex from 1990 to 2024, as estimated by UN DESA. [&nbsp;*annual* | *[source](https://www.un.org/development/desa/pd/content/international-migrant-stock)* | *2025-01-27*&nbsp;]
-  
+
 - **World Population Prospects** (`undesa_wpp`)
 
   Population count (in thousands) by sex and age from the UN World Population Prospects 2024 update. [&nbsp;*annual* | *[source](https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=CSV%20format)*&nbsp;]
@@ -64,7 +64,7 @@ Dates indicate last update by data provider, where available.
   
 - **Forcibly Displaced Population** (`unhcr`)
   
-  Count of forcibly displaced populations at yearend, as reported by UNHCR. [&nbsp;*annual* | *[source](https://www.unhcr.org/refugee-statistics/download/?url=tzZ1du)* | *2024-06-13*&nbsp;]
+  Count of forcibly displaced populations at yearend, as reported by UNHCR. [&nbsp;*annual* | *[source](https://www.unhcr.org/refugee-statistics/download/?url=tzZ1du)* | *2024-10-08*&nbsp;]
   
 - **EM-DAT: The International Disaster Database** (`emdat_disaster`)
   

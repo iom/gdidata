@@ -88,7 +88,7 @@ Dates indicate last update by data provider, where available.
   Count of forcibly displaced populations at yearend, as reported by
   UNHCR. \[ *annual* \|
   *[source](https://www.unhcr.org/refugee-statistics/download/?url=tzZ1du)*
-  \| *2024-06-13* \]
+  \| *2024-10-08* \]
 
 - **EM-DAT: The International Disaster Database** (`emdat_disaster`)
 
