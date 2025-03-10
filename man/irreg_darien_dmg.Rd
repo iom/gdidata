@@ -5,7 +5,7 @@
 \alias{irreg_darien_dmg}
 \title{Irregular Transits Through Darién: Demographics}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 144 rows and 4 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 152 rows and 4 columns.
 }
 \source{
 Panama Servicio Nacional de Migración [National Migration Service].
@@ -27,10 +27,10 @@ nationality.
 }
 
 Downloaded from https://www.migracion.gob.pa/estadisticas. Period
-covered is currently Jan 2021 to Dec 2024. From 2021 to 2022, demographic
+covered is currently Jan 2021 to Feb 2025. From 2021 to 2022, demographic
 categories are only "men" and "women". From 2023 onwards, categories are
 "men", "women", "boys" and "girls".
 
-Data as of 31 December 2024. Last updated 13 February 2025.
+Data as of 28 Feb 2025.
 }
 \keyword{datasets}

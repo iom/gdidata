@@ -48,7 +48,7 @@ Dates indicate last update by data provider, where available.
 
 - **Irregular Transits Through the Darién** (`irreg_darien_dmg` and `irreg_darien_nat`)
   
-  Irregular migrant transits through the Darién region of Panama as reported by the government, by sex and age and by nationality. [&nbsp;*monthly* | *[source](https://www.migracion.gob.pa/estadisticas/)* | *2024-12-31*&nbsp;]
+  Irregular migrant transits through the Darién region of Panama as reported by the government, by sex and age and by nationality. [&nbsp;*monthly* | *[source](https://www.migracion.gob.pa/estadisticas/)* | *2025-02-28*&nbsp;]
 
 - **Migrant Stock Estimates** (`undesa_stocks`)
 

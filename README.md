@@ -58,7 +58,7 @@ Dates indicate last update by data provider, where available.
   Irregular migrant transits through the Darién region of Panama as
   reported by the government, by sex and age and by nationality.
   \[ *monthly* \| *[source](https://www.migracion.gob.pa/estadisticas/)*
-  \| *2024-12-31* \]
+  \| *2025-02-28* \]
 
 - **Migrant Stock Estimates** (`undesa_stocks`)
 
