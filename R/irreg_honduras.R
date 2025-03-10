@@ -12,7 +12,7 @@
 #'   Migratorio Irregular* dashboard
 #'   (https://app.powerbi.com/view?r=eyJrIjoiODNhMGY4MGUtM2NkMy00YTIzLTlmZTAtNmQxZmJiZDhiZjc1IiwidCI6ImUxMWQ5NjIwLTRkM2UtNDEwYi05MTUyLWZkMWNmNmNmNzI5YSJ9).
 #'
-#'   Last updated 7 February 2025.
+#'   Last updated 10 Mar 2025.
 #'
 #' @source Honduras National Institute for Migration; DTM Americas.
 "irreg_honduras"

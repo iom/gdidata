@@ -50,7 +50,8 @@ Dates indicate last update by data provider, where available.
 
   Irregular migrant arrivals to Honduras as reported by the government.
   \[ *monthly* \|
-  *[source](https://app.powerbi.com/view?r=eyJrIjoiODNhMGY4MGUtM2NkMy00YTIzLTlmZTAtNmQxZmJiZDhiZjc1IiwidCI6ImUxMWQ5NjIwLTRkM2UtNDEwYi05MTUyLWZkMWNmNmNmNzI5YSJ9)* \]
+  *[source](https://app.powerbi.com/view?r=eyJrIjoiODNhMGY4MGUtM2NkMy00YTIzLTlmZTAtNmQxZmJiZDhiZjc1IiwidCI6ImUxMWQ5NjIwLTRkM2UtNDEwYi05MTUyLWZkMWNmNmNmNzI5YSJ9)*
+  \| *2025-03-10* \]
 
 - **Irregular Transits Through the Darién** (`irreg_darien_dmg` and
   `irreg_darien_nat`)
