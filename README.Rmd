@@ -28,7 +28,7 @@ Dates indicate last update by data provider, where available.
 
 - **Missing Migrants Project** (`iom_mmp`)
   
-  Deaths and disappearances of people in the process of migration towards an international destination. [&nbsp;*daily* | *[source](https://missingmigrants.iom.int/downloads)* | *2025-01-08*&nbsp;]
+  Deaths and disappearances of people in the process of migration towards an international destination. [&nbsp;*daily* | *[source](https://missingmigrants.iom.int/downloads)* | *2025-03-10*&nbsp;]
   
 - **Detections of Illegal Border Crossings** (`frontex`)
   

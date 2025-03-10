@@ -22,7 +22,7 @@ Dates indicate last update by data provider, where available.
   Deaths and disappearances of people in the process of migration
   towards an international destination. \[ *daily* \|
   *[source](https://missingmigrants.iom.int/downloads)* \|
-  *2025-01-08* \]
+  *2025-03-10* \]
 
 - **Detections of Illegal Border Crossings** (`frontex`)
 
