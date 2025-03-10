@@ -32,7 +32,7 @@ Dates indicate last update by data provider, where available.
   
 - **Detections of Illegal Border Crossings** (`frontex`)
   
-  Government detections of illegal border crossings into Mediterranean countries, as compiled by Frontex. [&nbsp;*monthly* | [source](https://www.frontex.europa.eu/what-we-do/monitoring-and-risk-analysis/migratory-map/) | *2025-02-04*&nbsp;]
+  Government detections of illegal border crossings into Mediterranean countries, as compiled by Frontex. [&nbsp;*monthly* | [source](https://www.frontex.europa.eu/what-we-do/monitoring-and-risk-analysis/migratory-map/) | *2025-03-04*&nbsp;]
   
 - **U.S. Southwest Land Border Encounters** (`irreg_usa`)
   
