@@ -42,11 +42,11 @@ Dates indicate last update by data provider, where available.
   
   Count of foreigners in Mexico in an irregular migratory situation, by sex and age and by nationality. [&nbsp;*monthly* | *[source](https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos)*&nbsp;]
   
-- **Irregular Migrant Arrivals to Honduras** (`irreg_honduras`)
+- **Irregular Migrant Arrivals to Honduras** (`irreg_honduras`, `irreg_honduras_nat`, `irreg_honduras_dmg`)
   
-  Irregular migrant arrivals to Honduras as reported by the government. [&nbsp;*monthly* | *[source](https://app.powerbi.com/view?r=eyJrIjoiODNhMGY4MGUtM2NkMy00YTIzLTlmZTAtNmQxZmJiZDhiZjc1IiwidCI6ImUxMWQ5NjIwLTRkM2UtNDEwYi05MTUyLWZkMWNmNmNmNzI5YSJ9)* | *2025-03-10*&nbsp;]
+  Irregular migrant arrivals to Honduras as reported by the government. [&nbsp;*monthly* | *[source](https://app.powerbi.com/view?r=eyJrIjoiODNhMGY4MGUtM2NkMy00YTIzLTlmZTAtNmQxZmJiZDhiZjc1IiwidCI6ImUxMWQ5NjIwLTRkM2UtNDEwYi05MTUyLWZkMWNmNmNmNzI5YSJ9)* | *2025-03-11*&nbsp;]
 
-- **Irregular Transits Through the Darién** (`irreg_darien_dmg` and `irreg_darien_nat`)
+- **Irregular Transits Through the Darién** (`irreg_darien_dmg`, `irreg_darien_nat`)
   
   Irregular migrant transits through the Darién region of Panama as reported by the government, by sex and age and by nationality. [&nbsp;*monthly* | *[source](https://www.migracion.gob.pa/estadisticas/)* | *2025-02-28*&nbsp;]
 
@@ -58,7 +58,7 @@ Dates indicate last update by data provider, where available.
 
   Population count (in thousands) by sex and age from the UN World Population Prospects 2024 update. [&nbsp;*annual* | *[source](https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=CSV%20format)*&nbsp;]
   
-- **Global Internal Displacement Database** (`idmc_stocks` and `idmc_flows`)
+- **Global Internal Displacement Database** (`idmc_stocks`, `idmc_flows`)
   
   Stock and flow count of internally displaced persons, by cause of displacement, sex, and age, as reported by the Internal Displacement Monitoring Centre. [&nbsp;*annual* | *[source](https://www.internal-displacement.org/database/displacement-data)* | *2024-05-13*&nbsp;]
   
