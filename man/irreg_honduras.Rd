@@ -5,7 +5,7 @@
 \alias{irreg_honduras}
 \title{Irregular Migrant Arrivals to Honduras}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 134 rows and 3 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 135 rows and 3 columns.
 }
 \source{
 Honduras National Institute for Migration; DTM Americas.
@@ -26,7 +26,8 @@ Irregular migrant arrivals to Honduras as reported by the government.
 Scraped from the Honduras National Institute for Migration's \emph{Flujo
 Migratorio Irregular} dashboard
 (https://app.powerbi.com/view?r=eyJrIjoiODNhMGY4MGUtM2NkMy00YTIzLTlmZTAtNmQxZmJiZDhiZjc1IiwidCI6ImUxMWQ5NjIwLTRkM2UtNDEwYi05MTUyLWZkMWNmNmNmNzI5YSJ9).
+Period covered is from 2014 Jan to 2025 Mar.
 
-Last updated 11 Mar 2025.
+Last updated 28 Apr 2025.
 }
 \keyword{datasets}

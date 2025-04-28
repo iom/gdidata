@@ -16,7 +16,7 @@
 #'   \item{n}{count of individuals}
 #' }
 #'
-#' @details Period covered is currently Oct 2017 to Dec 2024. The latest CSV
+#' @details Period covered is currently Oct 2017 to Mar 2025. The latest CSV
 #'   file is downloaded from
 #'   https://www.cbp.gov/document/stats/nationwide-encounters. Data is
 #'   originally reported by fiscal year, which begins in October. The time
@@ -38,7 +38,7 @@
 #'   permanent resident, or admissible noncitizen. Accompanied minors is a
 #'   demographic used only by OFO.
 #'
-#'   Last updated 3 February 2025.
+#'   Last updated 3 April 2025.
 #'
 #' @source U.S. Customs and Border Protection.
 "irreg_usa"
