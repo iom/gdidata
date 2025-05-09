@@ -18,10 +18,10 @@
 #'   \item{lat}{latitude of incident}
 #' }
 #'
-#' @details Period covered is currently Jan 2014 to Feb 2025. The latest data is
+#' @details Period covered is currently Jan 2014 to Apr 2025. The latest data is
 #'   downloaded from https://missingmigrants.iom.int/downloads.
 #'
-#'   Last updated 10 Mar 2025.
+#'   Last updated 9 May 2025.
 #'
 #' @source IOM Missing Migrants Project.
 "iom_mmp"
