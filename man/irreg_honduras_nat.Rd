@@ -5,7 +5,7 @@
 \alias{irreg_honduras_nat}
 \title{Irregular Migrant Arrivals to Honduras: Nationalities}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 736 rows and 3 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 744 rows and 3 columns.
 }
 \source{
 Honduras National Institute for Migration.
@@ -27,8 +27,8 @@ nationality.
 Scraped from the Honduras National Institute for Migration's \emph{Flujo
 Migratorio Irregular} dashboard
 (https://app.powerbi.com/view?r=eyJrIjoiODNhMGY4MGUtM2NkMy00YTIzLTlmZTAtNmQxZmJiZDhiZjc1IiwidCI6ImUxMWQ5NjIwLTRkM2UtNDEwYi05MTUyLWZkMWNmNmNmNzI5YSJ9).
-Period covered is from 2018 to 2024 and Jan-Mar 2025.
+Period covered is from 2018 to 2024 and Jan-Apr 2025.
 
-Last updated 28 Apr 2025.
+Last updated 13 May 2025.
 }
 \keyword{datasets}

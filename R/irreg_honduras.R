@@ -4,16 +4,15 @@
 #'
 #' \describe{
 #'   \item{t}{month-year of count}
-#'   \item{q}{quarter-year of count}
 #'   \item{n}{count of individuals}
 #' }
 #'
 #' @details Scraped from the Honduras National Institute for Migration's *Flujo
 #'   Migratorio Irregular* dashboard
 #'   (https://app.powerbi.com/view?r=eyJrIjoiODNhMGY4MGUtM2NkMy00YTIzLTlmZTAtNmQxZmJiZDhiZjc1IiwidCI6ImUxMWQ5NjIwLTRkM2UtNDEwYi05MTUyLWZkMWNmNmNmNzI5YSJ9).
-#'   Period covered is from 2014 Jan to 2025 Mar.
+#'   Period covered is from 2014 Jan to 2025 Apr
 #'
-#'   Last updated 28 Apr 2025.
+#'   Last updated 13 May 2025.
 #'
 #' @source Honduras National Institute for Migration; DTM Americas.
 "irreg_honduras"
@@ -33,9 +32,9 @@
 #' @details Scraped from the Honduras National Institute for Migration's *Flujo
 #'   Migratorio Irregular* dashboard
 #'   (https://app.powerbi.com/view?r=eyJrIjoiODNhMGY4MGUtM2NkMy00YTIzLTlmZTAtNmQxZmJiZDhiZjc1IiwidCI6ImUxMWQ5NjIwLTRkM2UtNDEwYi05MTUyLWZkMWNmNmNmNzI5YSJ9).
-#'   Period covered is from 2018 to 2024 and Jan-Mar 2025.
+#'   Period covered is from 2018 to 2024 and Jan-Apr 2025.
 #'
-#'   Last updated 28 Apr 2025.
+#'   Last updated 13 May 2025.
 #'
 #' @source Honduras National Institute for Migration.
 "irreg_honduras_nat"
@@ -55,9 +54,9 @@
 #' @details Scraped from the Honduras National Institute for Migration's *Flujo
 #'   Migratorio Irregular* dashboard
 #'   (https://app.powerbi.com/view?r=eyJrIjoiODNhMGY4MGUtM2NkMy00YTIzLTlmZTAtNmQxZmJiZDhiZjc1IiwidCI6ImUxMWQ5NjIwLTRkM2UtNDEwYi05MTUyLWZkMWNmNmNmNzI5YSJ9).
-#'   Period covered is from 2018 to 2024 and Jan-Mar 2025.
+#'   Period covered is from 2018 to 2024 and Jan-Apr 2025.
 #'
-#'   Last updated 28 Apr 2025.
+#'   Last updated 13 May 2025.
 #'
 #' @source Honduras National Institute for Migration.
 "irreg_honduras_dmg"
