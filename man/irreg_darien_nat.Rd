@@ -5,7 +5,7 @@
 \alias{irreg_darien_nat}
 \title{Irregular Transits Through Darién: Nationality}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 477 rows and 4 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 2367 rows and 4 columns.
 }
 \source{
 Panama Servicio Nacional de Migración [National Migration Service].

@@ -5,7 +5,7 @@
 \alias{irreg_usa}
 \title{U.S. Southwest Land Border Encounters}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 36091 rows and 10 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 36374 rows and 9 columns.
 }
 \source{
 U.S. Customs and Border Protection.
@@ -31,7 +31,7 @@ the United States southwest border, by demographics and nationality.
 \item{n}{count of individuals}
 }
 
-Period covered is currently Oct 2017 to Mar 2025. The latest CSV
+Period covered is currently Oct 2017 to Apr 2025. The latest CSV
 file is downloaded from
 https://www.cbp.gov/document/stats/nationwide-encounters. Data is
 originally reported by fiscal year, which begins in October. The time
@@ -53,6 +53,6 @@ accompanied by a legal guardian who is either a U.S. citizen, lawful
 permanent resident, or admissible noncitizen. Accompanied minors is a
 demographic used only by OFO.
 
-Last updated 3 April 2025.
+Last updated 5 May 2025.
 }
 \keyword{datasets}
