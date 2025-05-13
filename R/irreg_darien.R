@@ -12,9 +12,9 @@
 #' }
 #'
 #' @details Downloaded from https://www.migracion.gob.pa/estadisticas. Period
-#'   covered is currently 2010-2019 (annual) and Jan 2020 to Mar 2025.
+#'   covered is currently 2010-2019 (annual) and Jan 2020 to Apr 2025.
 #'
-#'   Data as of 28 Apr 2025.
+#'   Data as of 13 May 2025.
 #'
 #' @source Panama Servicio Nacional de Migración \[National Migration Service\].
 "irreg_darien_nat"
@@ -34,11 +34,11 @@
 #' }
 #'
 #' @details Downloaded from https://www.migracion.gob.pa/estadisticas. Period
-#'   covered is currently Jan 2021 to Mar 2025. From 2021 to 2022, demographic
+#'   covered is currently Jan 2021 to Apr 2025. From 2021 to 2022, demographic
 #'   categories are only "men" and "women". From 2023 onwards, categories are
 #'   "men", "women", "boys" and "girls".
 #'
-#'   Data as of 28 Apr 2025.
+#'   Data as of 13 May 2025.
 #'
 #' @source Panama Servicio Nacional de Migración \[National Migration Service\].
 "irreg_darien_dmg"
