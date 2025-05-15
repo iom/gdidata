@@ -5,7 +5,7 @@
 \alias{frontex}
 \title{Monthly Detections of Illegal Border Crossings}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 33734 rows and 5 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 33907 rows and 5 columns.
 }
 \source{
 European Border and Coast Guard Agency (Frontex)
@@ -26,10 +26,10 @@ countries, as compiled by Frontex.
 \item{n}{count}
 }
 
-Currently available from Jan 2009 to Jan 2025. Original data file
+Currently available from Jan 2009 to Mar 2025. Original data file
 downloaded from
 https://www.frontex.europa.eu/what-we-do/monitoring-and-risk-analysis/migratory-map/.
-Data is as of 4 March 2025.
+Data is as of 2 Apr 2025.
 
 The data refer to detections of illegal border-crossing rather than the
 number of persons, as the same person may cross the external border several
