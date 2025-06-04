@@ -40,5 +40,7 @@
 #'       Sudan.
 #'   }
 #'
+#'   Data last updated 11 Jul 2024.
+#'
 #' @source United Nations Department of Economic and Social Affairs.
 "undesa_wpp"

@@ -1,6 +1,4 @@
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
-
 # gdidata
 
 <!-- badges: start -->
@@ -22,14 +20,14 @@ Dates indicate last update by data provider, where available.
   Deaths and disappearances of people in the process of migration
   towards an international destination. \[ *daily* \|
   *[source](https://missingmigrants.iom.int/downloads)* \|
-  *2025-03-10* \]
+  *2025-06-04* \]
 
 - **Detections of Illegal Border Crossings** (`frontex`)
 
   Government detections of illegal border crossings into Mediterranean
   countries, as compiled by Frontex. \[ *monthly* \|
   [source](https://www.frontex.europa.eu/what-we-do/monitoring-and-risk-analysis/migratory-map/)
-  \| *2025-03-04* \]
+  \| *2025-04-02* \]
 
 - **U.S. Southwest Land Border Encounters** (`irreg_usa`)
 
@@ -37,29 +35,37 @@ Dates indicate last update by data provider, where available.
   the United States southwest land border, by demographics and by
   nationality. \[ *monthly* \|
   *[source](https://www.cbp.gov/document/stats/nationwide-encounters)*
-  \| *2025-01-16* \]
+  \| *2025-05-05* \]
 
 - **People in an Irregular Migratory Situation in Mexico**
-  (`irreg_mexico_dmg` and `irreg_mexico_nat`)
+  (`irreg_mexico_dmg`, `irreg_mexico_nat`)
 
   Count of foreigners in Mexico in an irregular migratory situation, by
   sex and age and by nationality. \[ *monthly* \|
-  *[source](https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos)* \]
+  *[source](https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos)*
+  \| *2025-05-30* \]
 
-- **Irregular Migrant Arrivals to Honduras** (`irreg_honduras`)
+- **Irregular Migrant Arrivals to Honduras** (`irreg_honduras`,
+  `irreg_honduras_nat`, `irreg_honduras_dmg`)
 
   Irregular migrant arrivals to Honduras as reported by the government.
   \[ *monthly* \|
   *[source](https://app.powerbi.com/view?r=eyJrIjoiODNhMGY4MGUtM2NkMy00YTIzLTlmZTAtNmQxZmJiZDhiZjc1IiwidCI6ImUxMWQ5NjIwLTRkM2UtNDEwYi05MTUyLWZkMWNmNmNmNzI5YSJ9)*
-  \| *2025-03-10* \]
+  \| *2025-05-30* \]
 
-- **Irregular Transits Through the Darién** (`irreg_darien_dmg` and
+- **Irregular Transits Through the Darién** (`irreg_darien_dmg`,
   `irreg_darien_nat`)
 
   Irregular migrant transits through the Darién region of Panama as
   reported by the government, by sex and age and by nationality.
   \[ *monthly* \| *[source](https://www.migracion.gob.pa/estadisticas/)*
-  \| *2025-02-28* \]
+  \| *2025-05-13* \]
+
+- **Boat Arrivals to Australia** (`irreg_australia_boats`)
+
+  Statistics on refugee boats arrivals to Australia. \[ *annual* \|
+  *[source](https://www.refugeecouncil.org.au/asylum-boats-statistics/)*
+  \| *2025-05-04* \]
 
 - **Migrant Stock Estimates** (`undesa_stocks`)
 
@@ -73,16 +79,17 @@ Dates indicate last update by data provider, where available.
 
   Population count (in thousands) by sex and age from the UN World
   Population Prospects 2024 update. \[ *annual* \|
-  *[source](https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=CSV%20format)* \]
+  *[source](https://population.un.org/wpp/downloads?folder=Standard%20Projections&group=CSV%20format)*
+  \| *2024-07-11* \]
 
-- **Global Internal Displacement Database** (`idmc_stocks` and
+- **Global Internal Displacement Database** (`idmc_stocks`,
   `idmc_flows`)
 
   Stock and flow count of internally displaced persons, by cause of
   displacement, sex, and age, as reported by the Internal Displacement
   Monitoring Centre. \[ *annual* \|
   *[source](https://www.internal-displacement.org/database/displacement-data)*
-  \| *2024-05-13* \]
+  \| *2025-05-13* \]
 
 - **Forcibly Displaced Population** (`unhcr`)
 
@@ -90,6 +97,13 @@ Dates indicate last update by data provider, where available.
   UNHCR. \[ *annual* \|
   *[source](https://www.unhcr.org/refugee-statistics/download/?url=tzZ1du)*
   \| *2024-10-08* \]
+
+- **EU Asylum Applications** (`eu_asyapp`)
+
+  First time asylum application in the EU, by country of application and
+  applicant’s nationality and sex. \[ *annual* \|
+  *[source](https://ec.europa.eu/eurostat/databrowser/view/tps00191/default/table?lang=en&category=t_migr.t_migr_asy)*
+  \| *2025-05-26* \]
 
 - **EM-DAT: The International Disaster Database** (`emdat_disaster`)
 

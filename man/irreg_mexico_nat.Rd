@@ -5,7 +5,7 @@
 \alias{irreg_mexico_nat}
 \title{Mexico Immigrants in an Irregular Situation: Nationality}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 5598 rows and 3 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 5685 rows and 3 columns.
 }
 \source{
 México Unidad de Política Migratoria [Migration Policy Unit ].
@@ -32,8 +32,8 @@ by sex and age.
 For each year of the \emph{Boletines Estadísticos}, table 3.1.1 was
 downloaded from
 https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos.
-Period covered is currently Jan 2018 to Feb 2025.
+Period covered is currently Jan 2018 to Mar 2025.
 
-Last updated 13 May 2025.
+Last updated 30 May 2025.
 }
 \keyword{datasets}

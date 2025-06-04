@@ -6,7 +6,6 @@
 #' \describe{
 #'   \item{t}{month-year of encounter}
 #'   \item{t_fy}{month-year of encounter in fiscal year}
-#'   \item{q}{quarter-year of encounter}
 #'   \item{component}{division under the U.S. Customs and Border Protection involved in the encounter, either the U.S. Border Patrol (UBP) or the Office of Field Operations (OFO)}
 #'   \item{aor}{area of responsibility of `component`}
 #'   \item{authority}{title of authority the noncitizen was processed}
@@ -19,8 +18,8 @@
 #' @details Period covered is currently Oct 2017 to Apr 2025. The latest CSV
 #'   file is downloaded from
 #'   https://www.cbp.gov/document/stats/nationwide-encounters. Data is
-#'   originally reported by fiscal year, which begins in October. The time
-#'   columns `t` and `q` are the calendar year equivalents.
+#'   originally reported by fiscal year, which begins in October. The column `t`
+#'   is the calendar year equivalents.
 #'
 #'   `authority` is either Title 8 or Title 42 of the U.S. Code. Encounters of
 #'   noncitizens are generally processed under Title 8, encompassing laws on

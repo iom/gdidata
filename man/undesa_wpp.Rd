@@ -54,5 +54,7 @@ Refugees are not part of the foreign-born migrant stock.
 \item \strong{Sudan}: Estimates for 1990 to 2005 refer to Sudan and South
 Sudan.
 }
+
+Data last updated 11 Jul 2024.
 }
 \keyword{datasets}
