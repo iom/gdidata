@@ -18,7 +18,7 @@ Irregular migrant arrivals to Honduras as reported by the government.
 }
 \details{
 \describe{
-\item{t}{month-year of count}
+\item{t}{year-month of count}
 \item{n}{count of individuals}
 }
 
@@ -27,6 +27,6 @@ Migratorio Irregular} dashboard
 (https://app.powerbi.com/view?r=eyJrIjoiODNhMGY4MGUtM2NkMy00YTIzLTlmZTAtNmQxZmJiZDhiZjc1IiwidCI6ImUxMWQ5NjIwLTRkM2UtNDEwYi05MTUyLWZkMWNmNmNmNzI5YSJ9).
 Period covered is from 2014 Jan to 2025 Apr
 
-Last updated 11 Jun 2025.
+Last updated 19 Jun 2025.
 }
 \keyword{datasets}
