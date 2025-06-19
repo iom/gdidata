@@ -16,9 +16,7 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-*Under construction*
-
-This package collects cleaned public datasets that I use for routine data visualization at the International Organization for Migration (IOM)'s Global Data Institute. This repository is neither affiliated nor endorsed by IOM or the data providers. Any errors are my own.
+This package collects cleaned public datasets relating to migration.
 
 ## Datasets
 
