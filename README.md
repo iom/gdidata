@@ -30,7 +30,7 @@ Dates indicate last update by data provider, where available.
   the United States southwest land border, by demographics and by
   nationality. \[ *monthly* \|
   *[source](https://www.cbp.gov/document/stats/nationwide-encounters)*
-  \| *2025-05-05* \]
+  \| *2025-06-04* \]
 
 - **People in an Irregular Migratory Situation in Mexico**
   (`irreg_mexico_dmg`, `irreg_mexico_nat`)
@@ -44,8 +44,7 @@ Dates indicate last update by data provider, where available.
 
   Count of foreigners expelled from Mexico, by nationality. \[ *monthly*
   \|
-  *[source](https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos)*
-  \| *2025-06-19* \]
+  *[source](https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos)* \]
 
 - **Irregular Migrant Arrivals to Honduras** (`irreg_honduras`,
   `irreg_honduras_nat`, `irreg_honduras_dmg`)
@@ -66,14 +65,13 @@ Dates indicate last update by data provider, where available.
 
   Irregular migrant transits through the Darién region of Panama as
   reported by the government, by sex and age and by nationality.
-  \[ *monthly* \| *[source](https://www.migracion.gob.pa/estadisticas/)*
-  \| *2025-05-13* \]
+  \[ *monthly* \|
+  *[source](https://www.migracion.gob.pa/estadisticas/)* \]
 
-- **Boat Arrivals to Australia** (`irreg_australia_boats`)
+- **Boat Arrivals to Australia** (`irreg_australia`)
 
   Statistics on refugee boats arrivals to Australia. \[ *annual* \|
-  *[source](https://www.refugeecouncil.org.au/asylum-boats-statistics/)*
-  \| *2025-05-04* \]
+  *[source](https://www.refugeecouncil.org.au/asylum-boats-statistics/)* \]
 
 - **Migrant Stock Estimates** (`undesa_stocks`)
 

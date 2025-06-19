@@ -32,7 +32,7 @@ Dates indicate last update by data provider, where available.
   
 - **U.S. Southwest Land Border Encounters** (`irreg_usa`)
   
-  Encounters by border authorities of noncitizens irregularly crossing the United States southwest land border, by demographics and by nationality. [&nbsp;*monthly* | *[source](https://www.cbp.gov/document/stats/nationwide-encounters)* | *2025-05-05*&nbsp;]
+  Encounters by border authorities of noncitizens irregularly crossing the United States southwest land border, by demographics and by nationality. [&nbsp;*monthly* | *[source](https://www.cbp.gov/document/stats/nationwide-encounters)* | *2025-06-04*&nbsp;]
   
 - **People in an Irregular Migratory Situation in Mexico** (`irreg_mexico_dmg`, `irreg_mexico_nat`)
   
@@ -40,7 +40,7 @@ Dates indicate last update by data provider, where available.
   
 - **Expulsions from Mexico** (`irreg_mexico_exp`)
   
-  Count of foreigners expelled from Mexico, by nationality. [&nbsp;*monthly* | *[source](https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos)* | *2025-06-19*&nbsp;]
+  Count of foreigners expelled from Mexico, by nationality. [&nbsp;*monthly* | *[source](https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos)*&nbsp;]
   
 - **Irregular Migrant Arrivals to Honduras** (`irreg_honduras`, `irreg_honduras_nat`, `irreg_honduras_dmg`)
   
@@ -52,11 +52,11 @@ Dates indicate last update by data provider, where available.
 
 - **Irregular Transits Through the Darién** (`irreg_darien_dmg`, `irreg_darien_nat`)
   
-  Irregular migrant transits through the Darién region of Panama as reported by the government, by sex and age and by nationality. [&nbsp;*monthly* | *[source](https://www.migracion.gob.pa/estadisticas/)* | *2025-05-13*&nbsp;]
+  Irregular migrant transits through the Darién region of Panama as reported by the government, by sex and age and by nationality. [&nbsp;*monthly* | *[source](https://www.migracion.gob.pa/estadisticas/)*&nbsp;]
 
-- **Boat Arrivals to Australia** (`irreg_australia_boats`)
+- **Boat Arrivals to Australia** (`irreg_australia`)
   
-  Statistics on refugee boats arrivals to Australia. [&nbsp;*annual* | *[source](https://www.refugeecouncil.org.au/asylum-boats-statistics/)* | *2025-05-04*&nbsp;]
+  Statistics on refugee boats arrivals to Australia. [&nbsp;*annual* | *[source](https://www.refugeecouncil.org.au/asylum-boats-statistics/)*&nbsp;]
 
 - **Migrant Stock Estimates** (`undesa_stocks`)
 

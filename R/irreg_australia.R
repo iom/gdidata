@@ -10,7 +10,7 @@
 #'
 #' @details Downloaded from
 #'   https://www.refugeecouncil.org.au/asylum-boats-statistics. Period covered
-#'   is 1976 to 2024, and Jan-Mar 2025.
+#'   is 1976 to 2024, and Jan-Apr 2025.
 #'
 #'   The terms "boat arrivals" here refers to people on board the vessels that
 #'   could not be safely returned and therefore landed in Australia as well as
@@ -20,7 +20,7 @@
 #'   breakdown was provided. Note that for the latest year, figures of less than
 #'   5 are rendered exact, until confirmed by later data.
 #'
-#'   Last updated 4 May 2025.
+#'   Last updated 19 Jun 2025.
 #'
 #' @source Refugee Council of Australia.
-"irreg_australia_boats"
+"irreg_australia"
