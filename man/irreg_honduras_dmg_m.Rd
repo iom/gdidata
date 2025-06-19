@@ -5,7 +5,7 @@
 \alias{irreg_honduras_dmg_m}
 \title{Irregular Migrant Arrivals to Honduras: Demographics (Monthly)}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 64 rows and 3 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 160 rows and 3 columns.
 }
 \source{
 Honduras National Institute for Migration.
@@ -27,8 +27,8 @@ and age. Monthly version of \code{irreg_honduras_dmg_m}.
 Scraped from the Honduras National Institute for Migration's \emph{Flujo
 Migratorio Irregular} dashboard
 (https://app.powerbi.com/view?r=eyJrIjoiODNhMGY4MGUtM2NkMy00YTIzLTlmZTAtNmQxZmJiZDhiZjc1IiwidCI6ImUxMWQ5NjIwLTRkM2UtNDEwYi05MTUyLWZkMWNmNmNmNzI5YSJ9).
-Period covered is from Jan 2024 to Apr 2025.
+Period covered is from Jan 2022 to Apr 2025.
 
-Last updated 30 May 2025.
+Last updated 11 Jun 2025.
 }
 \keyword{datasets}

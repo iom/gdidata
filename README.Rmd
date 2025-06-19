@@ -30,7 +30,7 @@ Dates indicate last update by data provider, where available.
   
 - **Detections of Illegal Border Crossings** (`frontex`)
   
-  Government detections of illegal border crossings into Mediterranean countries, as compiled by Frontex. [&nbsp;*monthly* | [source](https://www.frontex.europa.eu/what-we-do/monitoring-and-risk-analysis/migratory-map/) | *2025-04-02*&nbsp;]
+  Government detections of illegal border crossings into Mediterranean countries, as compiled by Frontex. [&nbsp;*monthly* | [source](https://www.frontex.europa.eu/what-we-do/monitoring-and-risk-analysis/migratory-map/) | *2025-06-03*&nbsp;]
   
 - **U.S. Southwest Land Border Encounters** (`irreg_usa`)
   
@@ -38,11 +38,19 @@ Dates indicate last update by data provider, where available.
   
 - **People in an Irregular Migratory Situation in Mexico** (`irreg_mexico_dmg`, `irreg_mexico_nat`)
   
-  Count of foreigners in Mexico in an irregular migratory situation, by sex and age and by nationality. [&nbsp;*monthly* | *[source](https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos)* | *2025-05-30*&nbsp;]
+  Count of foreigners in Mexico in an irregular migratory situation, by sex and age and by nationality. [&nbsp;*monthly* | *[source](https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos)* | *2025-06-11*&nbsp;]
+  
+- **Expulsions from Mexico** (`irreg_mexico_exp`)
+  
+  Count of foreigners expelled from Mexico, by nationality. [&nbsp;*monthly* | *[source](https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos)* | *2025-06-19*&nbsp;]
   
 - **Irregular Migrant Arrivals to Honduras** (`irreg_honduras`, `irreg_honduras_nat`, `irreg_honduras_dmg`)
   
   Irregular migrant arrivals to Honduras as reported by the government. [&nbsp;*monthly* | *[source](https://app.powerbi.com/view?r=eyJrIjoiODNhMGY4MGUtM2NkMy00YTIzLTlmZTAtNmQxZmJiZDhiZjc1IiwidCI6ImUxMWQ5NjIwLTRkM2UtNDEwYi05MTUyLWZkMWNmNmNmNzI5YSJ9)* | *2025-05-30*&nbsp;]
+  
+- **Guatemalans Returned from Mexico and the United States** (`irreg_guatemala`)
+  
+  Count of Guatemalans returned to Guatemala from Mexico and the United States, by sex and age. [&nbsp;*monthly* | *[source](https://igm.gob.gt/informes-estadisticos)*&nbsp;]
 
 - **Irregular Transits Through the Darién** (`irreg_darien_dmg`, `irreg_darien_nat`)
   

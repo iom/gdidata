@@ -11,10 +11,10 @@
 #'   \item{n}{count}
 #' }
 #'
-#' @details Currently available from Jan 2009 to Mar 2025. Original data file
+#' @details Currently available from Jan 2009 to Apr 2025. Original data file
 #'   downloaded from
 #'   https://www.frontex.europa.eu/what-we-do/monitoring-and-risk-analysis/migratory-map/.
-#'   Data is as of 2 Apr 2025.
+#'   Data is as of 3 Jun 2025.
 #'
 #'   The data refer to detections of illegal border-crossing rather than the
 #'   number of persons, as the same person may cross the external border several

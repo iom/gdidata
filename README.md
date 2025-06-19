@@ -27,7 +27,7 @@ Dates indicate last update by data provider, where available.
   Government detections of illegal border crossings into Mediterranean
   countries, as compiled by Frontex. \[ *monthly* \|
   [source](https://www.frontex.europa.eu/what-we-do/monitoring-and-risk-analysis/migratory-map/)
-  \| *2025-04-02* \]
+  \| *2025-06-03* \]
 
 - **U.S. Southwest Land Border Encounters** (`irreg_usa`)
 
@@ -43,7 +43,14 @@ Dates indicate last update by data provider, where available.
   Count of foreigners in Mexico in an irregular migratory situation, by
   sex and age and by nationality. \[ *monthly* \|
   *[source](https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos)*
-  \| *2025-05-30* \]
+  \| *2025-06-11* \]
+
+- **Expulsions from Mexico** (`irreg_mexico_exp`)
+
+  Count of foreigners expelled from Mexico, by nationality. \[ *monthly*
+  \|
+  *[source](https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos)*
+  \| *2025-06-19* \]
 
 - **Irregular Migrant Arrivals to Honduras** (`irreg_honduras`,
   `irreg_honduras_nat`, `irreg_honduras_dmg`)
@@ -52,6 +59,13 @@ Dates indicate last update by data provider, where available.
   \[ *monthly* \|
   *[source](https://app.powerbi.com/view?r=eyJrIjoiODNhMGY4MGUtM2NkMy00YTIzLTlmZTAtNmQxZmJiZDhiZjc1IiwidCI6ImUxMWQ5NjIwLTRkM2UtNDEwYi05MTUyLWZkMWNmNmNmNzI5YSJ9)*
   \| *2025-05-30* \]
+
+- **Guatemalans Returned from Mexico and the United States**
+  (`irreg_guatemala`)
+
+  Count of Guatemalans returned to Guatemala from Mexico and the United
+  States, by sex and age. \[ *monthly* \|
+  *[source](https://igm.gob.gt/informes-estadisticos)* \]
 
 - **Irregular Transits Through the Darién** (`irreg_darien_dmg`,
   `irreg_darien_nat`)

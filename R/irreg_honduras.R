@@ -12,7 +12,7 @@
 #'   (https://app.powerbi.com/view?r=eyJrIjoiODNhMGY4MGUtM2NkMy00YTIzLTlmZTAtNmQxZmJiZDhiZjc1IiwidCI6ImUxMWQ5NjIwLTRkM2UtNDEwYi05MTUyLWZkMWNmNmNmNzI5YSJ9).
 #'   Period covered is from 2014 Jan to 2025 Apr
 #'
-#'   Last updated 13 May 2025.
+#'   Last updated 11 Jun 2025.
 #'
 #' @source Honduras National Institute for Migration; DTM Americas.
 "irreg_honduras"
@@ -54,9 +54,9 @@
 #' @details Scraped from the Honduras National Institute for Migration's *Flujo
 #'   Migratorio Irregular* dashboard
 #'   (https://app.powerbi.com/view?r=eyJrIjoiODNhMGY4MGUtM2NkMy00YTIzLTlmZTAtNmQxZmJiZDhiZjc1IiwidCI6ImUxMWQ5NjIwLTRkM2UtNDEwYi05MTUyLWZkMWNmNmNmNzI5YSJ9).
-#'   Period covered is from Jan 2023 to Apr 2025.
+#'   Period covered is from Jan 2022 to Apr 2025.
 #'
-#'   Last updated 30 May 2025.
+#'   Last updated 11 Jun 2025.
 #'
 #' @source Honduras National Institute for Migration.
 "irreg_honduras_nat_m"
@@ -98,9 +98,9 @@
 #' @details Scraped from the Honduras National Institute for Migration's *Flujo
 #'   Migratorio Irregular* dashboard
 #'   (https://app.powerbi.com/view?r=eyJrIjoiODNhMGY4MGUtM2NkMy00YTIzLTlmZTAtNmQxZmJiZDhiZjc1IiwidCI6ImUxMWQ5NjIwLTRkM2UtNDEwYi05MTUyLWZkMWNmNmNmNzI5YSJ9).
-#'   Period covered is from Jan 2024 to Apr 2025.
+#'   Period covered is from Jan 2022 to Apr 2025.
 #'
-#'   Last updated 30 May 2025.
+#'   Last updated 11 Jun 2025.
 #'
 #' @source Honduras National Institute for Migration.
 "irreg_honduras_dmg_m"

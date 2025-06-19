@@ -5,7 +5,7 @@
 \alias{irreg_mexico_dmg}
 \title{People in an Irregular Migratory Situation in Mexico: Demographics}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 696 rows and 4 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 704 rows and 4 columns.
 }
 \source{
 México Unidad de Política Migratoria [Migration Policy Unit ].
@@ -33,11 +33,11 @@ of origin.
 For each year of the \emph{Boletines Estadísticos}, table 3.1.3 was
 downloaded from
 https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos.
-Period covered is currently Jan 2018 to Mar 2025.
+Period covered is currently Jan 2018 to Apr 2025.
 
 Possible values for \code{age} are "under 12, accompanied", "under 12,
 unaccompanied", "12-17" and "18+".
 
-Last updated 30 May 2025.
+Last updated 11 Jun 2025.
 }
 \keyword{datasets}
