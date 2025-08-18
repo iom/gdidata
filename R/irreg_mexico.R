@@ -17,9 +17,9 @@
 #' @details For each year of the *Boletines Estadísticos*, table 3.1.1 was
 #'   downloaded from
 #'   https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos.
-#'   Period covered is currently Jan 2018 to Apr 2025.
+#'   Period covered is currently Jan 2018 to Jun 2025.
 #'
-#'   Last updated 11 Jun 2025.
+#'   Last updated 18 Aug 2025.
 #'
 #' @source México Unidad de Política Migratoria \[Migration Policy Unit \].
 "irreg_mexico_nat"
@@ -45,12 +45,12 @@
 #' @details For each year of the *Boletines Estadísticos*, table 3.1.3 was
 #'   downloaded from
 #'   https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos.
-#'   Period covered is currently Jan 2018 to Apr 2025.
+#'   Period covered is currently Jan 2018 to Jun 2025.
 #'
 #'   Possible values for `age` are "under 12, accompanied", "under 12,
 #'   unaccompanied", "12-17" and "18+".
 #'
-#'   Last updated 11 Jun 2025.
+#'   Last updated 18 Aug 2025.
 #'
 #' @source México Unidad de Política Migratoria \[Migration Policy Unit \].
 "irreg_mexico_dmg"
@@ -71,9 +71,9 @@
 #' @details For each year of the *Boletines Estadísticos*, table 3.2.4 was
 #'   downloaded from
 #'   https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos.
-#'   Period covered is Jan 2015 to Apr 2025.
+#'   Period covered is Jan 2015 to Jun 2025.
 #'
-#'   Last updated 19 Jun 2025.
+#'   Last updated 18 Aug 2025.
 #'
 #' @source México Unidad de Política Migratoria \[Migration Policy Unit \].
 "irreg_mexico_exp"

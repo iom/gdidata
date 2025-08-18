@@ -5,7 +5,7 @@
 \alias{wdi}
 \title{Various Country-Level Indicators}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 92435 rows and 4 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 94907 rows and 4 columns.
 }
 \source{
 World Bank; UN World Population Prospect
@@ -77,5 +77,7 @@ resident households to nonresident households in current U.S. dollars
 without work but available for and seeking employment
 (https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS).
 }
+
+Last updated 6 Aug 2025.
 }
 \keyword{datasets}

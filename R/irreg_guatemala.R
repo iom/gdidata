@@ -14,7 +14,7 @@
 #' @details Children are defined as those under 18 years of age.
 #'
 #'   Downloaded from https://igm.gob.gt/informes-estadisticos. Period covered is
-#'   from 2020 Jan to 2025 Apr. Last updated 18 Jun 2025.
+#'   from Jan 2020 Jan to Jul 2025. Last updated 18 Aug 2025.
 #'
 #' @source Instituto Guatemalteco de Migración \[Guatemalan Institute of
 #'   Migration\].

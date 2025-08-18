@@ -5,7 +5,7 @@
 \alias{irreg_usa}
 \title{U.S. Southwest Land Border Encounters}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 36676 rows and 9 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 37209 rows and 9 columns.
 }
 \source{
 U.S. Customs and Border Protection.
@@ -30,11 +30,9 @@ the United States southwest border, by demographics and nationality.
 \item{n}{count of individuals}
 }
 
-Period covered is currently Oct 2017 to May 2025. The latest CSV
-file is downloaded from
-https://www.cbp.gov/document/stats/nationwide-encounters. Data is
-originally reported by fiscal year, which begins in October. The column \code{t}
-is the calendar year equivalents.
+Period covered is currently Oct 2017 to Jul 2025. Data is originally
+reported by fiscal year, which begins in October. The column \code{t} is the
+calendar year equivalents.
 
 \code{authority} is either Title 8 or Title 42 of the U.S. Code. Encounters of
 noncitizens are generally processed under Title 8, encompassing laws on
@@ -52,6 +50,7 @@ accompanied by a legal guardian who is either a U.S. citizen, lawful
 permanent resident, or admissible noncitizen. Accompanied minors is a
 demographic used only by OFO.
 
-Last updated 4 Jun 2025.
+Data as of 5 Aug 2025, downloaded from
+https://www.cbp.gov/document/stats/nationwide-encounters.
 }
 \keyword{datasets}

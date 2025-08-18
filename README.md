@@ -30,7 +30,7 @@ Dates indicate last update by data provider, where available.
   the United States southwest land border, by demographics and by
   nationality. \[ *monthly* \|
   *[source](https://www.cbp.gov/document/stats/nationwide-encounters)*
-  \| *2025-06-04* \]
+  \| *2025-08-05* \]
 
 - **People in an Irregular Migratory Situation in Mexico**
   (`irreg_mexico_dmg`, `irreg_mexico_nat`)
@@ -38,35 +38,38 @@ Dates indicate last update by data provider, where available.
   Count of foreigners in Mexico in an irregular migratory situation, by
   sex and age and by nationality. \[ *monthly* \|
   *[source](https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos)*
-  \| *2025-06-11* \]
+  \| *2025-08-18* \]
 
 - **Expulsions from Mexico** (`irreg_mexico_exp`)
 
   Count of foreigners expelled from Mexico, by nationality. \[ *monthly*
   \|
-  *[source](https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos)* \]
+  *[source](https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos)*
+  \| *2025-08-18* \]
 
 - **Irregular Migrant Arrivals to Honduras** (`irreg_honduras`,
   `irreg_honduras_nat`, `irreg_honduras_dmg`)
 
   Irregular migrant arrivals to Honduras as reported by the government.
   \[ *monthly* \|
-  *[source](https://app.powerbi.com/view?r=eyJrIjoiODNhMGY4MGUtM2NkMy00YTIzLTlmZTAtNmQxZmJiZDhiZjc1IiwidCI6ImUxMWQ5NjIwLTRkM2UtNDEwYi05MTUyLWZkMWNmNmNmNzI5YSJ9)* \]
+  *[source](https://app.powerbi.com/view?r=eyJrIjoiODNhMGY4MGUtM2NkMy00YTIzLTlmZTAtNmQxZmJiZDhiZjc1IiwidCI6ImUxMWQ5NjIwLTRkM2UtNDEwYi05MTUyLWZkMWNmNmNmNzI5YSJ9)*
+  \| *2025-08-18* \]
 
 - **Guatemalans Returned from Mexico and the United States**
   (`irreg_guatemala`)
 
   Count of Guatemalans returned to Guatemala from Mexico and the United
   States, by sex and age. \[ *monthly* \|
-  *[source](https://igm.gob.gt/informes-estadisticos)* \]
+  *[source](https://igm.gob.gt/informes-estadisticos)* \|
+  *2025-08-18* \]
 
 - **Irregular Transits Through the Darién** (`irreg_darien_dmg`,
   `irreg_darien_nat`)
 
   Irregular migrant transits through the Darién region of Panama as
   reported by the government, by sex and age and by nationality.
-  \[ *monthly* \|
-  *[source](https://www.migracion.gob.pa/estadisticas/)* \]
+  \[ *monthly* \| *[source](https://www.migracion.gob.pa/estadisticas/)*
+  \| *2025-08-18* \]
 
 - **Boat Arrivals to Australia** (`irreg_australia`)
 

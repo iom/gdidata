@@ -63,5 +63,7 @@
 #'       (https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS).
 #'   }
 #'
+#' Last updated 6 Aug 2025.
+#'
 #' @source World Bank; UN World Population Prospect
 "wdi"

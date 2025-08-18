@@ -5,7 +5,7 @@
 \alias{iom_mmp}
 \title{Missing Migrants Project}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 19669 rows and 12 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 19674 rows and 12 columns.
 }
 \source{
 IOM Missing Migrants Project.
@@ -35,6 +35,6 @@ international destination.
 Period covered is currently Jan 2014 to Apr 2025. The latest data is
 downloaded from https://missingmigrants.iom.int/downloads.
 
-Last updated 4 Jun 2025.
+Last updated 23 Jun 2025.
 }
 \keyword{datasets}

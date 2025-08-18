@@ -15,11 +15,9 @@
 #'   \item{n}{count of individuals}
 #' }
 #'
-#' @details Period covered is currently Oct 2017 to May 2025. The latest CSV
-#'   file is downloaded from
-#'   https://www.cbp.gov/document/stats/nationwide-encounters. Data is
-#'   originally reported by fiscal year, which begins in October. The column `t`
-#'   is the calendar year equivalents.
+#' @details Period covered is currently Oct 2017 to Jul 2025. Data is originally
+#'   reported by fiscal year, which begins in October. The column `t` is the
+#'   calendar year equivalents.
 #'
 #'   `authority` is either Title 8 or Title 42 of the U.S. Code. Encounters of
 #'   noncitizens are generally processed under Title 8, encompassing laws on
@@ -37,7 +35,8 @@
 #'   permanent resident, or admissible noncitizen. Accompanied minors is a
 #'   demographic used only by OFO.
 #'
-#'   Last updated 4 Jun 2025.
+#'   Data as of 5 Aug 2025, downloaded from
+#'   https://www.cbp.gov/document/stats/nationwide-encounters.
 #'
 #' @source U.S. Customs and Border Protection.
 "irreg_usa"

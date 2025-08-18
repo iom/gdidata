@@ -5,7 +5,7 @@
 \alias{irreg_darien_nat}
 \title{Irregular Transits Through Darién: Nationality}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 2387 rows and 4 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 2401 rows and 3 columns.
 }
 \source{
 Panama Servicio Nacional de Migración [National Migration Service].
@@ -21,14 +21,13 @@ sex and age.
 \details{
 \describe{
 \item{t}{month-year of count}
-\item{q}{quarter-year of count}
 \item{nat}{nationality (ISO-3)}
 \item{n}{count of individuals}
 }
 
 Downloaded from https://www.migracion.gob.pa/estadisticas. Period
-covered is currently 2010-2019 (annual) and Jan 2020 to Apr 2025.
+covered is currently 2010-2019 (annual) and Jan 2020 to Jul 2025.
 
-Data as of 13 May 2025.
+Data as of 18 Aug 2025.
 }
 \keyword{datasets}

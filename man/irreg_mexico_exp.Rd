@@ -5,7 +5,7 @@
 \alias{irreg_mexico_exp}
 \title{Expulsions from Mexico}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 5251 rows and 4 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 5346 rows and 4 columns.
 }
 \source{
 México Unidad de Política Migratoria [Migration Policy Unit ].
@@ -28,8 +28,8 @@ assisted return, by nationality.
 For each year of the \emph{Boletines Estadísticos}, table 3.2.4 was
 downloaded from
 https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos.
-Period covered is Jan 2015 to Apr 2025.
+Period covered is Jan 2015 to Jun 2025.
 
-Last updated 19 Jun 2025.
+Last updated 18 Aug 2025.
 }
 \keyword{datasets}
