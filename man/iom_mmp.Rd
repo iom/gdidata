@@ -5,7 +5,7 @@
 \alias{iom_mmp}
 \title{Missing Migrants Project}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 19674 rows and 12 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 19941 rows and 12 columns.
 }
 \source{
 IOM Missing Migrants Project.

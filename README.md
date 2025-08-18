@@ -15,14 +15,14 @@ Dates indicate last update by data provider, where available.
   Deaths and disappearances of people in the process of migration
   towards an international destination. \[ *daily* \|
   *[source](https://missingmigrants.iom.int/downloads)* \|
-  *2025-06-04* \]
+  *2025-08-18* \]
 
 - **Detections of Illegal Border Crossings** (`frontex`)
 
   Government detections of illegal border crossings into Mediterranean
   countries, as compiled by Frontex. \[ *monthly* \|
   [source](https://www.frontex.europa.eu/what-we-do/monitoring-and-risk-analysis/migratory-map/)
-  \| *2025-06-03* \]
+  \| *2025-08-04* \]
 
 - **U.S. Southwest Land Border Encounters** (`irreg_usa`)
 

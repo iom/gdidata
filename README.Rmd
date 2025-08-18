@@ -24,11 +24,11 @@ Dates indicate last update by data provider, where available.
 
 - **Missing Migrants Project** (`iom_mmp`)
   
-  Deaths and disappearances of people in the process of migration towards an international destination. [&nbsp;*daily* | *[source](https://missingmigrants.iom.int/downloads)* | *2025-06-04*&nbsp;]
+  Deaths and disappearances of people in the process of migration towards an international destination. [&nbsp;*daily* | *[source](https://missingmigrants.iom.int/downloads)* | *2025-08-18*&nbsp;]
   
 - **Detections of Illegal Border Crossings** (`frontex`)
   
-  Government detections of illegal border crossings into Mediterranean countries, as compiled by Frontex. [&nbsp;*monthly* | [source](https://www.frontex.europa.eu/what-we-do/monitoring-and-risk-analysis/migratory-map/) | *2025-06-03*&nbsp;]
+  Government detections of illegal border crossings into Mediterranean countries, as compiled by Frontex. [&nbsp;*monthly* | [source](https://www.frontex.europa.eu/what-we-do/monitoring-and-risk-analysis/migratory-map/) | *2025-08-04*&nbsp;]
   
 - **U.S. Southwest Land Border Encounters** (`irreg_usa`)
   

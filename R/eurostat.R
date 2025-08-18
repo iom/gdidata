@@ -66,10 +66,10 @@
 #'   \item{n}{count}
 #' }
 #'
-#' @details Available from Jan 2024 to Mar 2025. Downloaded through the Eurostat
+#' @details Available from Jan 2024 to May 2025. Downloaded through the Eurostat
 #'   API with the dataset key "migr_asyappctzm".
 #'
-#'   Last updated 30 Jun 2025.
+#'   Last updated 18 Aug 2025.
 #'
 #' @source Eurostat.
 "eu_asyapp_m"
