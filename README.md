@@ -38,14 +38,14 @@ Dates indicate last update by data provider, where available.
   Count of foreigners in Mexico in an irregular migratory situation, by
   sex and age and by nationality. \[ *monthly* \|
   *[source](https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos)*
-  \| *2025-08-18* \]
+  \| *2025-08-12* \]
 
 - **Expulsions from Mexico** (`irreg_mexico_exp`)
 
   Count of foreigners expelled from Mexico, by nationality. \[ *monthly*
   \|
   *[source](https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos)*
-  \| *2025-08-18* \]
+  \| *2025-08-12* \]
 
 - **Irregular Migrant Arrivals to Honduras** (`irreg_honduras`,
   `irreg_honduras_nat`, `irreg_honduras_dmg`)

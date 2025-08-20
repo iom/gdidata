@@ -28,8 +28,6 @@ assisted return, by nationality.
 For each year of the \emph{Boletines Estadísticos}, table 3.2.4 was
 downloaded from
 https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos.
-Period covered is Jan 2015 to Jun 2025.
-
-Last updated 18 Aug 2025.
+Period covered is Jan 2015 to Jun 2025. Data as of 12 Aug 2025.
 }
 \keyword{datasets}
