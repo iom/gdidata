@@ -4,7 +4,8 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-This package collects cleaned public datasets relating to migration.
+This R package collects cleaned public datasets relating to migration.
+Tables may be called by running `gdidata::dataset_name`.
 
 ## Datasets
 
@@ -21,8 +22,8 @@ Dates indicate last update by data provider, where available.
 
   Government detections of illegal border crossings into Mediterranean
   countries, as compiled by Frontex. \[ *monthly* \|
-  [source](https://www.frontex.europa.eu/what-we-do/monitoring-and-risk-analysis/migratory-map/)
-  \| *2025-08-04* \]
+  *[source](https://www.frontex.europa.eu/what-we-do/monitoring-and-risk-analysis/migratory-map/)*
+  \| *2025-09-04* \]
 
 - **U.S. Southwest Land Border Encounters** (`irreg_usa`)
 
@@ -35,8 +36,8 @@ Dates indicate last update by data provider, where available.
 - **People in an Irregular Migratory Situation in Mexico**
   (`irreg_mexico_dmg`, `irreg_mexico_nat`)
 
-  Count of foreigners in Mexico in an irregular migratory situation, by
-  sex and age and by nationality. \[ *monthly* \|
+  Count of foreigners in an irregular migratory situation processed in
+  Mexico, by sex and age and by nationality. \[ *monthly* \|
   *[source](https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos)*
   \| *2025-08-12* \]
 
@@ -50,8 +51,8 @@ Dates indicate last update by data provider, where available.
 - **Irregular Migrant Arrivals to Honduras** (`irreg_honduras`,
   `irreg_honduras_nat`, `irreg_honduras_dmg`)
 
-  Irregular migrant arrivals to Honduras as reported by the government.
-  \[ *monthly* \|
+  Irregular migrant transits through Honduras, by sex, age, and
+  nationality. \[ *monthly* \|
   *[source](https://app.powerbi.com/view?r=eyJrIjoiODNhMGY4MGUtM2NkMy00YTIzLTlmZTAtNmQxZmJiZDhiZjc1IiwidCI6ImUxMWQ5NjIwLTRkM2UtNDEwYi05MTUyLWZkMWNmNmNmNzI5YSJ9)*
   \| *2025-08-18* \]
 

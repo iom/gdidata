@@ -5,7 +5,7 @@
 \alias{countrynames}
 \title{Country dictionary}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 257 rows and 24 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 257 rows and 25 columns.
 }
 \usage{
 countrynames

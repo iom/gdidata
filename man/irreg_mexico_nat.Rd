@@ -5,10 +5,18 @@
 \alias{irreg_mexico_nat}
 \title{Mexico Immigrants in an Irregular Situation: Nationality}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 5891 rows and 3 columns.
+A dataset with variables:
+\describe{
+\item{t}{month-year of count}
+\item{nat}{nationality (ISO-3)}
+\item{n}{count of individuals}
+}
 }
 \source{
-México Unidad de Política Migratoria [Migration Policy Unit ].
+México Unidad de Política Migratoria [Migration Policy Unit ];
+table 3.1.1 at
+\url{https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos}
+(downloaded 12 Aug 2025).
 }
 \usage{
 irreg_mexico_nat
@@ -19,19 +27,7 @@ Migratorio} (PAM) was initiated before the \emph{Instituto Nacional de Migració
 (INM) for not accrediting their immigration status and those who were
 channeled by this same authority to the shelters of the \emph{Sistema Nacional
 para el Desarrollo Integral de la Familia} (DIF) network, with PAM initiated,
-by nationality. See \code{irreg_mexico_dmg} for the same dataset with breakdown
-by sex and age.
-}
-\details{
-\describe{
-\item{t}{month-year of count}
-\item{nat}{nationality (ISO-3)}
-\item{n}{count of individuals}
-}
-
-For each year of the \emph{Boletines Estadísticos}, table 3.1.1 was
-downloaded from
-https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos.
-Period covered is currently Jan 2018 to Jun 2025. Data as of 12 Aug 2025.
+by nationality. See \code{irreg_mexico_dmg} for the same dataset with breakdown by
+sex and age.
 }
 \keyword{datasets}
