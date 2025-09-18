@@ -5,29 +5,25 @@
 \alias{irreg_mexico_exp}
 \title{Expulsions from Mexico}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 5346 rows and 4 columns.
-}
-\source{
-México Unidad de Política Migratoria [Migration Policy Unit ].
-}
-\usage{
-irreg_mexico_exp
-}
-\description{
-Count of foreigners expelled from Mexico either through deportation or
-assisted return, by nationality.
-}
-\details{
+A dataset with variables:
 \describe{
 \item{t}{month-year of count}
 \item{nat}{nationality (ISO-3)}
 \item{type}{deportation, assisted return, assisted return of children}
 \item{n}{count of individuals}
 }
-
-For each year of the \emph{Boletines Estadísticos}, table 3.2.4 was
-downloaded from
-https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos.
-Period covered is Jan 2015 to Jun 2025. Data as of 12 Aug 2025.
+}
+\source{
+México Unidad de Política Migratoria [Migration Policy Unit ];
+table 3.2.4 at
+\url{https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos}
+(updated 3 Sep 2025).
+}
+\usage{
+irreg_mexico_exp
+}
+\description{
+Count of foreigners expelled from Mexico either through deportation or
+assisted return, by nationality. Covers Jan 2018 to Jul 2025.
 }
 \keyword{datasets}

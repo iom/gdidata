@@ -2,6 +2,7 @@
 # gdidata
 
 <!-- badges: start -->
+
 <!-- badges: end -->
 
 This R package collects cleaned public datasets relating to migration.
@@ -33,20 +34,20 @@ Dates indicate last update by data provider, where available.
   *[source](https://www.cbp.gov/document/stats/nationwide-encounters)*
   \| *2025-08-05* \]
 
-- **People in an Irregular Migratory Situation in Mexico**
-  (`irreg_mexico_dmg`, `irreg_mexico_nat`)
+- **Irregular Migrants Processed in Mexico** (`irreg_mexico_dmg`,
+  `irreg_mexico_nat`)
 
   Count of foreigners in an irregular migratory situation processed in
   Mexico, by sex and age and by nationality. \[ *monthly* \|
   *[source](https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos)*
-  \| *2025-08-12* \]
+  \| *2025-09-03* \]
 
 - **Expulsions from Mexico** (`irreg_mexico_exp`)
 
   Count of foreigners expelled from Mexico, by nationality. \[ *monthly*
   \|
   *[source](https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos)*
-  \| *2025-08-12* \]
+  \| *2025-09-03* \]
 
 - **Irregular Migrant Arrivals to Honduras** (`irreg_honduras`,
   `irreg_honduras_nat`, `irreg_honduras_dmg`)
@@ -70,7 +71,7 @@ Dates indicate last update by data provider, where available.
   Irregular migrant transits through the Darién region of Panama as
   reported by the government, by sex and age and by nationality.
   \[ *monthly* \| *[source](https://www.migracion.gob.pa/estadisticas/)*
-  \| *2025-08-18* \]
+  \| *2025-09-18* \]
 
 - **Boat Arrivals to Australia** (`irreg_australia`)
 

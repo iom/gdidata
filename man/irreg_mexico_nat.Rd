@@ -3,7 +3,7 @@
 \docType{data}
 \name{irreg_mexico_nat}
 \alias{irreg_mexico_nat}
-\title{Mexico Immigrants in an Irregular Situation: Nationality}
+\title{Irregular Migrants Processed in Mexico: Nationality}
 \format{
 A dataset with variables:
 \describe{
@@ -16,7 +16,7 @@ A dataset with variables:
 México Unidad de Política Migratoria [Migration Policy Unit ];
 table 3.1.1 at
 \url{https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos}
-(downloaded 12 Aug 2025).
+(updated 3 Sep 2025).
 }
 \usage{
 irreg_mexico_nat
@@ -28,6 +28,6 @@ Migratorio} (PAM) was initiated before the \emph{Instituto Nacional de Migració
 channeled by this same authority to the shelters of the \emph{Sistema Nacional
 para el Desarrollo Integral de la Familia} (DIF) network, with PAM initiated,
 by nationality. See \code{irreg_mexico_dmg} for the same dataset with breakdown by
-sex and age.
+sex and age. Covers Jan 2018 to Jul 2025.
 }
 \keyword{datasets}

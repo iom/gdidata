@@ -3,12 +3,21 @@
 \docType{data}
 \name{irreg_mexico_dmg}
 \alias{irreg_mexico_dmg}
-\title{People in an Irregular Migratory Situation in Mexico: Demographics}
+\title{Irregular Migrants Processed in Mexico: Demographics}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 720 rows and 4 columns.
+A dataset with variables:
+\describe{
+\item{t}{month-year of count}
+\item{sex}{male, female}
+\item{age}{age range}
+\item{n}{count of individuals}
+}
 }
 \source{
-México Unidad de Política Migratoria [Migration Policy Unit ].
+México Unidad de Política Migratoria [Migration Policy Unit ];
+table 3.1.3 at
+\url{https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos}
+(updated 3 Sep 2025).
 }
 \usage{
 irreg_mexico_dmg
@@ -20,21 +29,9 @@ Migratorio} (PAM) was initiated before the \emph{Instituto Nacional de Migració
 channeled by this same authority to the shelters of the \emph{Sistema Nacional para
 el Desarrollo Integral de la Familia} (DIF) network, with PAM initiated, by
 sex and age. See \code{irreg_mexico_nat} for the same dataset with breakdown by country
-of origin.
+of origin. Covers Jan 2018 to Jul 2025.
 }
 \details{
-\describe{
-\item{t}{month-year of count}
-\item{sex}{male, female}
-\item{age}{age range}
-\item{n}{count of individuals}
-}
-
-For each year of the \emph{Boletines Estadísticos}, table 3.1.3 was
-downloaded from
-https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos.
-Period covered is currently Jan 2018 to Jun 2025. Data as of 12 Aug 2025.
-
 Possible values for \code{age} are "under 12, accompanied", "under 12,
 unaccompanied", "12-17" and "18+".
 }
