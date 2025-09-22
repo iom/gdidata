@@ -59,26 +59,28 @@
 #' EU Asylum Applications (Monthly)
 #'
 #' First time asylum application in the EU, by applicant's nationality.
+#' Available from Jan 2018 to Jun 2025.
 #'
 #' \describe{
 #'   \item{t}{year-month}
 #'   \item{nat}{nationality of applicant (ISO-3)}
+#'   \item{sex}{male, female, unknown}
+#'   \item{age}{adult, under 18, unknown}
+#'   \item{demog}{men, women, children, unknown}
 #'   \item{n}{count}
 #' }
 #'
-#' @details Available from Jan 2024 to May 2025. Downloaded through the Eurostat
-#'   API with the dataset key "migr_asyappctzm".
+#' @details Downloaded through the Eurostat API with the dataset key
+#'   "migr_asyappctzm".
 #'
-#'   Last updated 18 Aug 2025.
-#'
-#' @source Eurostat.
+#' @source Eurostat (downloaded 22 Sep 2025).
 "eu_asyapp_m"
 
 
 #' EU Third-Country Nationals Ordered to Leave
 #'
 #' Quarterly count of third-country nationals ordered to leave in European
-#' countries, by nationality.
+#' countries, by nationality. Available from 2021 Q1 to 2025 Q2.
 #'
 #' \describe{
 #'   \item{t}{year-quarter}
@@ -87,19 +89,18 @@
 #'   \item{n}{count}
 #' }
 #'
-#' @details Available from 2021 Q1 to 2025 Q1. Last updated 10 Jul 2025.
-#'
-#'   The column `geo` includes "EU27", which the aggregate count for the 27
+#' @details The column `geo` includes "EU27", which the aggregate count for the 27
 #'   European Countries.
 #'
-#' @source Eurostat.
+#' @source Eurostat (downloaded 18 Sep 2025).
 "eu_eiord"
 
 
 #' EU Third-Country Nationals Returned Following an Order to Leave
 #'
 #' Quarterly count of third-country nationals returned following an order to
-#' leave in European countries, by nationality and type of return.
+#' leave in European countries, by nationality and type of return. Available
+#' from 2021 Q1 to 2025 Q2.
 #'
 #' \describe{
 #'   \item{t}{year-quarter}
@@ -109,9 +110,7 @@
 #'   \item{n}{count}
 #' }
 #'
-#' @details Available from 2021 Q1 to 2025 Q1. Last updated 10 Jul 2025.
-#'
-#' The column `geo` includes "EU27", which the aggregate count for the 27
+#' @details The column `geo` includes "EU27", which the aggregate count for the 27
 #'   European Countries.
 #'
 #'   The column `dest` takes the following values:
@@ -120,9 +119,7 @@
 #'   - "THRD_OTH": other third countries
 #'   - "UNK": unknown
 #'
-#' @source Eurostat.
+#' @source Eurostat (downloaded 18 Sep 2025).
 "eu_eirtn"
-
-
 
 

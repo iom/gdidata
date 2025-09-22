@@ -5,17 +5,18 @@
 \alias{eu_eirtn}
 \title{EU Third-Country Nationals Returned Following an Order to Leave}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 22338 rows and 5 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 23194 rows and 5 columns.
 }
 \source{
-Eurostat.
+Eurostat (downloaded 18 Sep 2025).
 }
 \usage{
 eu_eirtn
 }
 \description{
 Quarterly count of third-country nationals returned following an order to
-leave in European countries, by nationality and type of return.
+leave in European countries, by nationality and type of return. Available
+from 2021 Q1 to 2025 Q2.
 }
 \details{
 \describe{
@@ -25,8 +26,6 @@ leave in European countries, by nationality and type of return.
 \item{dest}{type of return}
 \item{n}{count}
 }
-
-Available from 2021 Q1 to 2025 Q1. Last updated 10 Jul 2025.
 
 The column \code{geo} includes "EU27", which the aggregate count for the 27
 European Countries.

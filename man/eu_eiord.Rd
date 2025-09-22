@@ -5,17 +5,17 @@
 \alias{eu_eiord}
 \title{EU Third-Country Nationals Ordered to Leave}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 26363 rows and 4 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 26305 rows and 4 columns.
 }
 \source{
-Eurostat.
+Eurostat (downloaded 18 Sep 2025).
 }
 \usage{
 eu_eiord
 }
 \description{
 Quarterly count of third-country nationals ordered to leave in European
-countries, by nationality.
+countries, by nationality. Available from 2021 Q1 to 2025 Q2.
 }
 \details{
 \describe{
@@ -24,8 +24,6 @@ countries, by nationality.
 \item{nat}{nationality of applicant (ISO-3)}
 \item{n}{count}
 }
-
-Available from 2021 Q1 to 2025 Q1. Last updated 10 Jul 2025.
 
 The column \code{geo} includes "EU27", which the aggregate count for the 27
 European Countries.

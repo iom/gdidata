@@ -32,7 +32,7 @@ Dates indicate last update by data provider, where available.
   
 - **U.S. Southwest Land Border Encounters** (`irreg_usa`)
   
-  Encounters by border authorities of noncitizens irregularly crossing the United States southwest land border, by demographics and by nationality. [&nbsp;*monthly* | *[source](https://www.cbp.gov/document/stats/nationwide-encounters)* | *2025-08-05*&nbsp;]
+  Encounters by border authorities of noncitizens irregularly crossing the United States southwest land border, by demographics and by nationality. [&nbsp;*monthly* | *[source](https://www.cbp.gov/document/stats/nationwide-encounters)* | *2025-09-05*&nbsp;]
   
 - **Irregular Migrants Processed in Mexico** (`irreg_mexico_dmg`, `irreg_mexico_nat`)
   
@@ -74,9 +74,9 @@ Dates indicate last update by data provider, where available.
   
   Count of forcibly displaced populations at yearend, as reported by UNHCR. [&nbsp;*annual* | *[source](https://www.unhcr.org/refugee-statistics/download/?url=tzZ1du)* | *2024-10-08*&nbsp;]
   
-- **EU Asylum Applications** (`eu_asyapp`)
+- **EU Asylum Applications** (`eu_asyapp_m`)
   
-  First time asylum application in the EU, by country of application and applicant's nationality and sex. [&nbsp;*annual* | *[source](https://ec.europa.eu/eurostat/databrowser/view/tps00191/default/table?lang=en&category=t_migr.t_migr_asy)* | *2025-05-26*&nbsp;]
+  First time asylum application in the EU, by applicant's nationality. [&nbsp;*monthly* | *[source](https://ec.europa.eu/eurostat/databrowser/view/tps00191/default/table?lang=en&category=t_migr.t_migr_asy)* | *2025-09-22*&nbsp;]
   
 - **EM-DAT: The International Disaster Database** (`emdat_disaster`)
   

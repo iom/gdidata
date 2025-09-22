@@ -1,7 +1,8 @@
 #' U.S. Southwest Land Border Encounters
 #'
 #' Monthly encounters by border authorities of noncitizens irregularly crossing
-#' the United States southwest border, by demographics and nationality.
+#' the United States southwest border, by demographics and nationality. Covers
+#' Oct 2017 to Aug 2025.
 #'
 #' \describe{
 #'   \item{t}{month-year of encounter}
@@ -15,9 +16,10 @@
 #'   \item{n}{count of individuals}
 #' }
 #'
-#' @details Period covered is currently Oct 2017 to Jul 2025. Data is originally
-#'   reported by fiscal year, which begins in October. The column `t` is the
-#'   calendar year equivalents.
+#' @details Data is originally reported by fiscal year, which begins in October.
+#'   The column `t` is the calendar year equivalents.
+#'
+#'   `area` and `nat` are available from Oct 2019 onward.
 #'
 #'   `authority` is either Title 8 or Title 42 of the U.S. Code. Encounters of
 #'   noncitizens are generally processed under Title 8, encompassing laws on
@@ -35,8 +37,7 @@
 #'   permanent resident, or admissible noncitizen. Accompanied minors is a
 #'   demographic used only by OFO.
 #'
-#'   Data as of 5 Aug 2025, downloaded from
-#'   https://www.cbp.gov/document/stats/nationwide-encounters.
-#'
-#' @source U.S. Customs and Border Protection.
+#' @source U.S. Customs and Border Protection
+#'   <https://www.cbp.gov/document/stats/nationwide-encounters> (as of 5
+#'   September 2025).
 "irreg_usa"
