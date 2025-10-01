@@ -55,7 +55,7 @@ Dates indicate last update by data provider, where available.
   Irregular migrant transits through Honduras, by sex, age, and
   nationality. \[ *monthly* \|
   *[source](https://app.powerbi.com/view?r=eyJrIjoiODNhMGY4MGUtM2NkMy00YTIzLTlmZTAtNmQxZmJiZDhiZjc1IiwidCI6ImUxMWQ5NjIwLTRkM2UtNDEwYi05MTUyLWZkMWNmNmNmNzI5YSJ9)*
-  \| *2025-08-18* \]
+  \| *2025-09-30* \]
 
 - **Guatemalans Returned from Mexico and the United States**
   (`irreg_guatemala`)

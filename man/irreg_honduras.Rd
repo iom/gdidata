@@ -5,28 +5,22 @@
 \alias{irreg_honduras}
 \title{Irregular Migrant Arrivals to Honduras}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 139 rows and 2 columns.
+A dataset with variables:
+\describe{
+\item{t}{year-month of count}
+\item{n}{count of individuals}
+}
 }
 \source{
-Honduras National Institute for Migration; DTM Americas.
+Honduras National Institute for Migration
+\url{https://app.powerbi.com/view?r=eyJrIjoiODNhMGY4MGUtM2NkMy00YTIzLTlmZTAtNmQxZmJiZDhiZjc1IiwidCI6ImUxMWQ5NjIwLTRkM2UtNDEwYi05MTUyLWZkMWNmNmNmNzI5YSJ9}
+(accessed 30 Sep 2025); DTM Americas.
 }
 \usage{
 irreg_honduras
 }
 \description{
-Irregular migrant arrivals to Honduras as reported by the government.
-}
-\details{
-\describe{
-\item{t}{year-month of count}
-\item{n}{count of individuals}
-}
-
-Scraped from the Honduras National Institute for Migration's \emph{Flujo
-Migratorio Irregular} dashboard
-(https://app.powerbi.com/view?r=eyJrIjoiODNhMGY4MGUtM2NkMy00YTIzLTlmZTAtNmQxZmJiZDhiZjc1IiwidCI6ImUxMWQ5NjIwLTRkM2UtNDEwYi05MTUyLWZkMWNmNmNmNzI5YSJ9).
-Period covered is from Jan 2014 to Jul 2025.
-
-Last updated 18 Aug 2025.
+Irregular migrant arrivals to Honduras as reported by the government. Covers
+Jan 2018 to Aug 2025.
 }
 \keyword{datasets}
