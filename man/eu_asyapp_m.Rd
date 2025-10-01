@@ -5,7 +5,15 @@
 \alias{eu_asyapp_m}
 \title{EU Asylum Applications (Monthly)}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 38201 rows and 6 columns.
+A dataset with variables:
+\describe{
+\item{t}{year-month}
+\item{nat}{nationality of applicant (ISO-3)}
+\item{sex}{male, female, unknown}
+\item{age}{adult, under 18, unknown}
+\item{demog}{men, women, children, unknown}
+\item{n}{count}
+}
 }
 \source{
 Eurostat (downloaded 22 Sep 2025).
@@ -18,15 +26,6 @@ First time asylum application in the EU, by applicant's nationality.
 Available from Jan 2018 to Jun 2025.
 }
 \details{
-\describe{
-\item{t}{year-month}
-\item{nat}{nationality of applicant (ISO-3)}
-\item{sex}{male, female, unknown}
-\item{age}{adult, under 18, unknown}
-\item{demog}{men, women, children, unknown}
-\item{n}{count}
-}
-
 Downloaded through the Eurostat API with the dataset key
 "migr_asyappctzm".
 }

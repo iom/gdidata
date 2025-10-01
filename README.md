@@ -17,7 +17,7 @@ Dates indicate last update by data provider, where available.
   Deaths and disappearances of people in the process of migration
   towards an international destination. \[ *daily* \|
   *[source](https://missingmigrants.iom.int/downloads)* \|
-  *2025-08-18* \]
+  *2025-09-30* \]
 
 - **Detections of Illegal Border Crossings** (`frontex`)
 
@@ -32,7 +32,7 @@ Dates indicate last update by data provider, where available.
   the United States southwest land border, by demographics and by
   nationality. \[ *monthly* \|
   *[source](https://www.cbp.gov/document/stats/nationwide-encounters)*
-  \| *2025-08-05* \]
+  \| *2025-09-05* \]
 
 - **Irregular Migrants Processed in Mexico** (`irreg_mexico_dmg`,
   `irreg_mexico_nat`)
@@ -63,7 +63,7 @@ Dates indicate last update by data provider, where available.
   Count of Guatemalans returned to Guatemala from Mexico and the United
   States, by sex and age. \[ *monthly* \|
   *[source](https://igm.gob.gt/informes-estadisticos)* \|
-  *2025-08-18* \]
+  *2025-09-23* \]
 
 - **Irregular Transits Through the Darién** (`irreg_darien_dmg`,
   `irreg_darien_nat`)
@@ -109,12 +109,12 @@ Dates indicate last update by data provider, where available.
   *[source](https://www.unhcr.org/refugee-statistics/download/?url=tzZ1du)*
   \| *2024-10-08* \]
 
-- **EU Asylum Applications** (`eu_asyapp`)
+- **EU Asylum Applications** (`eu_asyapp_m`)
 
-  First time asylum application in the EU, by country of application and
-  applicant’s nationality and sex. \[ *annual* \|
+  First time asylum application in the EU, by applicant’s nationality.
+  \[ *monthly* \|
   *[source](https://ec.europa.eu/eurostat/databrowser/view/tps00191/default/table?lang=en&category=t_migr.t_migr_asy)*
-  \| *2025-05-26* \]
+  \| *2025-09-22* \]
 
 - **EM-DAT: The International Disaster Database** (`emdat_disaster`)
 

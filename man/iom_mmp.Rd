@@ -5,19 +5,7 @@
 \alias{iom_mmp}
 \title{Missing Migrants Project}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 19941 rows and 12 columns.
-}
-\source{
-IOM Missing Migrants Project.
-}
-\usage{
-iom_mmp
-}
-\description{
-Deaths and disappearances of people in the process of migration towards an
-international destination.
-}
-\details{
+A dataset with variables:
 \describe{
 \item{t}{date of incident}
 \item{m}{month-year of incident}
@@ -25,16 +13,22 @@ international destination.
 \item{geo}{country of incident (ISO-3)}
 \item{dead}{number of dead or missing}
 \item{cause}{cause of death}
-\item{surv}{number of survivors (if available)}
+\item{survive}{number of survivors (if available)}
 \item{nat}{country/ies of origin of dead and missing}
 \item{location}{precise location of incident}
 \item{lon}{longitude of incident}
 \item{lat}{latitude of incident}
 }
-
-Period covered is currently Jan 2014 to Apr 2025. The latest data is
-downloaded from https://missingmigrants.iom.int/downloads.
-
-Last updated 23 Jun 2025.
+}
+\source{
+IOM Missing Migrants Project
+\url{https://missingmigrants.iom.int/downloads} (downloaded 30 Sep 2025).
+}
+\usage{
+iom_mmp
+}
+\description{
+Deaths and disappearances of people in the process of migration towards an
+international destination. Covers Jan 2014 to Aug 2025.
 }
 \keyword{datasets}

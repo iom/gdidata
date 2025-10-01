@@ -5,7 +5,14 @@
 \alias{eu_asyapp}
 \title{EU Asylum Applications}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 25710 rows and 5 columns.
+A dataset with variables:
+\describe{
+\item{geo}{Eurostat country (ISO-3)}
+\item{t}{year}
+\item{nat}{nationality of applicant (ISO-3)}
+\item{sex}{male, female, unknown}
+\item{n}{count}
+}
 }
 \source{
 Eurostat.
@@ -18,14 +25,6 @@ First time asylum application in the EU, by country of application and applicant
 nationality and sex.
 }
 \details{
-\describe{
-\item{geo}{Eurostat country (ISO-3)}
-\item{t}{year}
-\item{nat}{nationality of applicant (ISO-3)}
-\item{sex}{male, female, unknown}
-\item{n}{count}
-}
-
 Available from 2011 to 2024. Downloaded through the Eurostat API
 with the dataset key "migr_asyappctza".
 

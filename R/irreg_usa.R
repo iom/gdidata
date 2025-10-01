@@ -4,6 +4,7 @@
 #' the United States southwest border, by demographics and nationality. Covers
 #' Oct 2017 to Aug 2025.
 #'
+#' @format A dataset with variables:
 #' \describe{
 #'   \item{t}{month-year of encounter}
 #'   \item{t_fy}{month-year of encounter in fiscal year}

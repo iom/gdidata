@@ -5,20 +5,7 @@
 \alias{irreg_guatemala}
 \title{Guatemalans Returned from Mexico and United States}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 760 rows and 5 columns.
-}
-\source{
-Instituto Guatemalteco de Migración [Guatemalan Institute of
-Migration].
-}
-\usage{
-irreg_guatemala
-}
-\description{
-Monthly count of Guatemalans returned from Mexico and the United States by
-sex and age.
-}
-\details{
+A dataset with variables:
 \describe{
 \item{t}{month-year of count}
 \item{sex}{male, female}
@@ -26,10 +13,19 @@ sex and age.
 \item{origin}{MEX, USA}
 \item{n}{count of individuals}
 }
-
+}
+\source{
+Instituto Guatemalteco de Migración [Guatemalan Institute of
+Migration] \url{https://igm.gob.gt/informes-estadisticos} (downloaded 23 Sep 2025).
+}
+\usage{
+irreg_guatemala
+}
+\description{
+Monthly count of Guatemalans returned from Mexico and the United States by
+sex and age. Covers Jan 2020 to Aug 2025.
+}
+\details{
 Children are defined as those under 18 years of age.
-
-Downloaded from https://igm.gob.gt/informes-estadisticos. Period covered is
-from Jan 2020 Jan to Jul 2025. Last updated 18 Aug 2025.
 }
 \keyword{datasets}

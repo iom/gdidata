@@ -1,8 +1,9 @@
 #' Guatemalans Returned from Mexico and United States
 #'
 #' Monthly count of Guatemalans returned from Mexico and the United States by
-#' sex and age.
+#' sex and age. Covers Jan 2020 to Aug 2025.
 #'
+#' @format A dataset with variables:
 #' \describe{
 #'   \item{t}{month-year of count}
 #'   \item{sex}{male, female}
@@ -13,10 +14,7 @@
 #'
 #' @details Children are defined as those under 18 years of age.
 #'
-#'   Downloaded from https://igm.gob.gt/informes-estadisticos. Period covered is
-#'   from Jan 2020 Jan to Jul 2025. Last updated 18 Aug 2025.
-#'
 #' @source Instituto Guatemalteco de Migración \[Guatemalan Institute of
-#'   Migration\].
+#'   Migration\] <https://igm.gob.gt/informes-estadisticos> (downloaded 23 Sep 2025).
 "irreg_guatemala"
 

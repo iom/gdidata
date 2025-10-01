@@ -3,6 +3,7 @@
 #' First time asylum application in the EU, by country of application and applicant's
 #' nationality and sex.
 #'
+#' @format A dataset with variables:
 #' \describe{
 #'   \item{geo}{Eurostat country (ISO-3)}
 #'   \item{t}{year}
@@ -61,6 +62,7 @@
 #' First time asylum application in the EU, by applicant's nationality.
 #' Available from Jan 2018 to Jun 2025.
 #'
+#' @format A dataset with variables:
 #' \describe{
 #'   \item{t}{year-month}
 #'   \item{nat}{nationality of applicant (ISO-3)}
@@ -82,6 +84,7 @@
 #' Quarterly count of third-country nationals ordered to leave in European
 #' countries, by nationality. Available from 2021 Q1 to 2025 Q2.
 #'
+#' @format A dataset with variables:
 #' \describe{
 #'   \item{t}{year-quarter}
 #'   \item{geo}{Reporting country (ISO-3)}
@@ -102,6 +105,7 @@
 #' leave in European countries, by nationality and type of return. Available
 #' from 2021 Q1 to 2025 Q2.
 #'
+#' @format A dataset with variables:
 #' \describe{
 #'   \item{t}{year-quarter}
 #'   \item{geo}{Reporting country (ISO-3)}

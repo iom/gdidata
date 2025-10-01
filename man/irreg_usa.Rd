@@ -5,7 +5,18 @@
 \alias{irreg_usa}
 \title{U.S. Southwest Land Border Encounters}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 37499 rows and 9 columns.
+A dataset with variables:
+\describe{
+\item{t}{month-year of encounter}
+\item{t_fy}{month-year of encounter in fiscal year}
+\item{component}{division under the U.S. Customs and Border Protection involved in the encounter, either the U.S. Border Patrol (UBP) or the Office of Field Operations (OFO)}
+\item{aor}{area of responsibility of \code{component}}
+\item{authority}{title of authority the noncitizen was processed}
+\item{type}{apprehension, inadmissible, or expulsion}
+\item{demog}{demographics}
+\item{nat}{nationality in ISO-3, available from Oct 2019 onwards}
+\item{n}{count of individuals}
+}
 }
 \source{
 U.S. Customs and Border Protection
@@ -21,18 +32,6 @@ the United States southwest border, by demographics and nationality. Covers
 Oct 2017 to Aug 2025.
 }
 \details{
-\describe{
-\item{t}{month-year of encounter}
-\item{t_fy}{month-year of encounter in fiscal year}
-\item{component}{division under the U.S. Customs and Border Protection involved in the encounter, either the U.S. Border Patrol (UBP) or the Office of Field Operations (OFO)}
-\item{aor}{area of responsibility of \code{component}}
-\item{authority}{title of authority the noncitizen was processed}
-\item{type}{apprehension, inadmissible, or expulsion}
-\item{demog}{demographics}
-\item{nat}{nationality in ISO-3, available from Oct 2019 onwards}
-\item{n}{count of individuals}
-}
-
 Data is originally reported by fiscal year, which begins in October.
 The column \code{t} is the calendar year equivalents.
 
