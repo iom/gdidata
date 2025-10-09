@@ -78,6 +78,14 @@ Dates indicate last update by data provider, where available.
   
   First time asylum application in the EU, by applicant's nationality. [&nbsp;*monthly* | *[source](https://ec.europa.eu/eurostat/databrowser/view/tps00191/default/table?lang=en&category=t_migr.t_migr_asy)* | *2025-09-22*&nbsp;]
   
+- **EU Return Orders** (`eu_eiord`)
+  
+  Third-country nationals in the EU ordered to leave and returned following an order to leave. [&nbsp;*quarterly* | *[source](https://ec.europa.eu/eurostat/databrowser/view/migr_eiord1/default)* | *2025-10-09*&nbsp;]
+  
+- **EU Actual Returns** (`eu_eirtn`)
+  
+  Third-country nationals in the EU returned following an order to leave. [&nbsp;*quarterly* | *[source](https://ec.europa.eu/eurostat/databrowser/view/migr_eirtn1/default)* | *2025-10-09*&nbsp;]
+  
 - **EM-DAT: The International Disaster Database** (`emdat_disaster`)
   
   Occurrence and impacts of mass disasters. [&nbsp;*annual*&nbsp;]

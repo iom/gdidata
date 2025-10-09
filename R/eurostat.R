@@ -92,10 +92,10 @@
 #'   \item{n}{count}
 #' }
 #'
-#' @details The column `geo` includes "EU27", which the aggregate count for the 27
-#'   European Countries.
+#' @details The column `geo` includes "EU27", which the aggregate count for the
+#'   27 European Countries.
 #'
-#' @source Eurostat (downloaded 18 Sep 2025).
+#' @source Eurostat <migr_eiord1> (downloaded 9 Oct 2025).
 "eu_eiord"
 
 
@@ -114,8 +114,8 @@
 #'   \item{n}{count}
 #' }
 #'
-#' @details The column `geo` includes "EU27", which the aggregate count for the 27
-#'   European Countries.
+#' @details The column `geo` includes "EU27", which the aggregate count for the
+#'   27 European Countries.
 #'
 #'   The column `dest` takes the following values:
 #'   - "EU27_2020_EFTA_FOR": EU27 or EFTA countries other than reporting country
@@ -123,7 +123,7 @@
 #'   - "THRD_OTH": other third countries
 #'   - "UNK": unknown
 #'
-#' @source Eurostat (downloaded 18 Sep 2025).
+#' @source Eurostat <migr_eirtn1> (downloaded 9 Oct 2025).
 "eu_eirtn"
 
 
