@@ -14,14 +14,14 @@ A dataset with variables:
 }
 }
 \source{
-Eurostat <migr_eiord1> (downloaded 9 Oct 2025).
+Eurostat <migr_eiord1> (downloaded 21 Oct 2025).
 }
 \usage{
 eu_eiord
 }
 \description{
 Quarterly count of third-country nationals ordered to leave in European
-countries, by nationality. Available from 2021 Q1 to 2025 Q2.
+countries, by nationality. Available from 2021 Q1 to 2025 Q3.
 }
 \details{
 The column \code{geo} includes "EU27", which the aggregate count for the

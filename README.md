@@ -121,14 +121,14 @@ Dates indicate last update by data provider, where available.
   Third-country nationals in the EU ordered to leave and returned
   following an order to leave. \[ *quarterly* \|
   *[source](https://ec.europa.eu/eurostat/databrowser/view/migr_eiord1/default)*
-  \| *2025-10-09* \]
+  \| *2025-10-21* \]
 
 - **EU Actual Returns** (`eu_eirtn`)
 
   Third-country nationals in the EU returned following an order to
   leave. \[ *quarterly* \|
   *[source](https://ec.europa.eu/eurostat/databrowser/view/migr_eirtn1/default)*
-  \| *2025-10-09* \]
+  \| *2025-10-21* \]
 
 - **EM-DAT: The International Disaster Database** (`emdat_disaster`)
 

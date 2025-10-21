@@ -15,7 +15,7 @@ A dataset with variables:
 }
 }
 \source{
-Eurostat <migr_eirtn1> (downloaded 9 Oct 2025).
+Eurostat <migr_eirtn1> (downloaded 21 Oct 2025).
 }
 \usage{
 eu_eirtn
@@ -23,7 +23,7 @@ eu_eirtn
 \description{
 Quarterly count of third-country nationals returned following an order to
 leave in European countries, by nationality and type of return. Available
-from 2021 Q1 to 2025 Q2.
+from 2021 Q1 to 2025 Q3.
 }
 \details{
 The column \code{geo} includes "EU27", which the aggregate count for the

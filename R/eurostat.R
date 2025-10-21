@@ -1,7 +1,7 @@
 #' EU Asylum Applications
 #'
-#' First time asylum application in the EU, by country of application and applicant's
-#' nationality and sex.
+#' First time asylum application in the EU, by country of application and
+#' applicant's nationality and sex.
 #'
 #' @format A dataset with variables:
 #' \describe{
@@ -82,7 +82,7 @@
 #' EU Third-Country Nationals Ordered to Leave
 #'
 #' Quarterly count of third-country nationals ordered to leave in European
-#' countries, by nationality. Available from 2021 Q1 to 2025 Q2.
+#' countries, by nationality. Available from 2021 Q1 to 2025 Q3.
 #'
 #' @format A dataset with variables:
 #' \describe{
@@ -95,7 +95,7 @@
 #' @details The column `geo` includes "EU27", which the aggregate count for the
 #'   27 European Countries.
 #'
-#' @source Eurostat <migr_eiord1> (downloaded 9 Oct 2025).
+#' @source Eurostat <migr_eiord1> (downloaded 21 Oct 2025).
 "eu_eiord"
 
 
@@ -103,7 +103,7 @@
 #'
 #' Quarterly count of third-country nationals returned following an order to
 #' leave in European countries, by nationality and type of return. Available
-#' from 2021 Q1 to 2025 Q2.
+#' from 2021 Q1 to 2025 Q3.
 #'
 #' @format A dataset with variables:
 #' \describe{
@@ -123,7 +123,7 @@
 #'   - "THRD_OTH": other third countries
 #'   - "UNK": unknown
 #'
-#' @source Eurostat <migr_eirtn1> (downloaded 9 Oct 2025).
+#' @source Eurostat <migr_eirtn1> (downloaded 21 Oct 2025).
 "eu_eirtn"
 
 

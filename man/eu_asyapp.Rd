@@ -21,8 +21,8 @@ Eurostat.
 eu_asyapp
 }
 \description{
-First time asylum application in the EU, by country of application and applicant's
-nationality and sex.
+First time asylum application in the EU, by country of application and
+applicant's nationality and sex.
 }
 \details{
 Available from 2011 to 2024. Downloaded through the Eurostat API
