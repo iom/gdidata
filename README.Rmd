@@ -28,7 +28,7 @@ Dates indicate last update by data provider, where available.
   
 - **Detections of Illegal Border Crossings** (`frontex`)
   
-  Government detections of illegal border crossings into Mediterranean countries, as compiled by Frontex. [&nbsp;*monthly* | *[source](https://www.frontex.europa.eu/what-we-do/monitoring-and-risk-analysis/migratory-map/)* | *2025-09-04*&nbsp;]
+  Government detections of illegal border crossings into Mediterranean countries, as compiled by Frontex. [&nbsp;*monthly* | *[source](https://www.frontex.europa.eu/what-we-do/monitoring-and-risk-analysis/migratory-map/)* | *2025-10-03*&nbsp;]
   
 - **U.S. Southwest Land Border Encounters** (`irreg_usa`)
   
@@ -36,11 +36,11 @@ Dates indicate last update by data provider, where available.
   
 - **Irregular Migrants Processed in Mexico** (`irreg_mexico_dmg`, `irreg_mexico_nat`)
   
-  Count of foreigners in an irregular migratory situation processed in Mexico, by sex and age and by nationality. [&nbsp;*monthly* | *[source](https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos)* | *2025-09-03*&nbsp;]
+  Count of foreigners in an irregular migratory situation processed in Mexico, by sex and age and by nationality. [&nbsp;*monthly* | *[source](https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos)* | *2025-10-28*&nbsp;]
   
 - **Expulsions from Mexico** (`irreg_mexico_exp`)
   
-  Count of foreigners expelled from Mexico, by nationality. [&nbsp;*monthly* | *[source](https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos)* | *2025-09-03*&nbsp;]
+  Count of foreigners expelled from Mexico, by nationality. [&nbsp;*monthly* | *[source](https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos)* | *2025-10-28*&nbsp;]
   
 - **Irregular Migrant Arrivals to Honduras** (`irreg_honduras`, `irreg_honduras_nat`, `irreg_honduras_dmg`)
   

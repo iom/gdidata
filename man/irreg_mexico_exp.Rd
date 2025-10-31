@@ -17,13 +17,13 @@ A dataset with variables:
 México Unidad de Política Migratoria [Migration Policy Unit ];
 table 3.2.4 at
 \url{https://portales.segob.gob.mx/es/PoliticaMigratoria/Boletines_Estadisticos}
-(updated 3 Sep 2025).
+(updated 28 Oct 2025).
 }
 \usage{
 irreg_mexico_exp
 }
 \description{
 Count of foreigners expelled from Mexico either through deportation or
-assisted return, by nationality. Covers Jan 2018 to Jul 2025.
+assisted return, by nationality. Covers Jan 2018 to Aug 2025.
 }
 \keyword{datasets}

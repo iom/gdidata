@@ -1,7 +1,7 @@
 #' Monthly Detections of Illegal Border Crossings
 #'
 #' Government detections of illegal border crossings into Mediterranean
-#' countries, as compiled by Frontex. Available from Jan 2009 to Jul 2025.
+#' countries, as compiled by Frontex. Available from Jan 2009 to Aug 2025.
 #'
 #' \describe{
 #'   \item{route}{migratory route of border crossing}
@@ -23,5 +23,5 @@
 #'
 #' @source European Border and Coast Guard Agency (Frontex)
 #'   <https://www.frontex.europa.eu/what-we-do/monitoring-and-risk-analysis/migratory-map/>
-#'   (updated 4 Sep 2025).
+#'   (updated 3 Oct 2025).
 "frontex"
