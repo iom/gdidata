@@ -1,7 +1,7 @@
 #' Missing Migrants Project
 #'
 #' Deaths and disappearances of people in the process of migration towards an
-#' international destination. Covers Jan 2014 to Aug 2025.
+#' international destination. Covers Jan 2014 to Nov 2025.
 #'
 #' @format A dataset with variables:
 #' \describe{
@@ -19,5 +19,5 @@
 #' }
 #'
 #' @source IOM Missing Migrants Project
-#'   <https://missingmigrants.iom.int/downloads> (downloaded 30 Sep 2025).
+#'   <https://missingmigrants.iom.int/downloads> (downloaded 25 Nov 2025).
 "iom_mmp"
