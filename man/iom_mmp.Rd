@@ -22,13 +22,13 @@ A dataset with variables:
 }
 \source{
 IOM Missing Migrants Project
-\url{https://missingmigrants.iom.int/downloads} (downloaded 30 Sep 2025).
+\url{https://missingmigrants.iom.int/downloads} (downloaded 25 Nov 2025).
 }
 \usage{
 iom_mmp
 }
 \description{
 Deaths and disappearances of people in the process of migration towards an
-international destination. Covers Jan 2014 to Aug 2025.
+international destination. Covers Jan 2014 to Nov 2025.
 }
 \keyword{datasets}
