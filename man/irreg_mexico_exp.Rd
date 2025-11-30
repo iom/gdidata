@@ -24,6 +24,6 @@ irreg_mexico_exp
 }
 \description{
 Count of foreigners expelled from Mexico either through deportation or
-assisted return, by nationality. Covers Jan 2018 to Aug 2025.
+assisted return, by nationality. Covers Jan 2018 to Sep 2025.
 }
 \keyword{datasets}

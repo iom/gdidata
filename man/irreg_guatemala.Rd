@@ -16,14 +16,15 @@ A dataset with variables:
 }
 \source{
 Instituto Guatemalteco de Migración [Guatemalan Institute of
-Migration] \url{https://igm.gob.gt/informes-estadisticos} (downloaded 23 Sep 2025).
+Migration] \url{https://igm.gob.gt/informes-estadisticos} (downloaded 30 Nov
+2025).
 }
 \usage{
 irreg_guatemala
 }
 \description{
 Monthly count of Guatemalans returned from Mexico and the United States by
-sex and age. Covers Jan 2020 to Aug 2025.
+sex and age. Covers Jan 2020 to Oct 2025.
 }
 \details{
 Children are defined as those under 18 years of age.

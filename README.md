@@ -32,7 +32,7 @@ Dates indicate last update by data provider, where available.
   the United States southwest land border, by demographics and by
   nationality. \[ *monthly* \|
   *[source](https://www.cbp.gov/document/stats/nationwide-encounters)*
-  \| *2025-09-05* \]
+  \| *2025-11-05* \]
 
 - **Irregular Migrants Processed in Mexico** (`irreg_mexico_dmg`,
   `irreg_mexico_nat`)
@@ -55,7 +55,7 @@ Dates indicate last update by data provider, where available.
   Irregular migrant transits through Honduras, by sex, age, and
   nationality. \[ *monthly* \|
   *[source](https://app.powerbi.com/view?r=eyJrIjoiODNhMGY4MGUtM2NkMy00YTIzLTlmZTAtNmQxZmJiZDhiZjc1IiwidCI6ImUxMWQ5NjIwLTRkM2UtNDEwYi05MTUyLWZkMWNmNmNmNzI5YSJ9)*
-  \| *2025-09-30* \]
+  \| *2025-11-30* \]
 
 - **Guatemalans Returned from Mexico and the United States**
   (`irreg_guatemala`)
@@ -63,7 +63,7 @@ Dates indicate last update by data provider, where available.
   Count of Guatemalans returned to Guatemala from Mexico and the United
   States, by sex and age. \[ *monthly* \|
   *[source](https://igm.gob.gt/informes-estadisticos)* \|
-  *2025-09-23* \]
+  *2025-11-30* \]
 
 - **Irregular Transits Through the Darién** (`irreg_darien_dmg`,
   `irreg_darien_nat`)
@@ -71,7 +71,7 @@ Dates indicate last update by data provider, where available.
   Irregular migrant transits through the Darién region of Panama as
   reported by the government, by sex and age and by nationality.
   \[ *monthly* \| *[source](https://www.migracion.gob.pa/estadisticas/)*
-  \| *2025-09-18* \]
+  \| *2025-11-25* \]
 
 - **Boat Arrivals to Australia** (`irreg_australia`)
 
@@ -114,7 +114,7 @@ Dates indicate last update by data provider, where available.
   First time asylum application in the EU, by applicant’s nationality.
   \[ *monthly* \|
   *[source](https://ec.europa.eu/eurostat/databrowser/view/tps00191/default/table?lang=en&category=t_migr.t_migr_asy)*
-  \| *2025-09-22* \]
+  \| *2025-11-30* \]
 
 - **EU Return Orders** (`eu_eiord`)
 

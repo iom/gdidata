@@ -2,7 +2,7 @@
 #'
 #' Monthly encounters by border authorities of noncitizens irregularly crossing
 #' the United States southwest border, by demographics and nationality. Covers
-#' Oct 2017 to Aug 2025.
+#' Oct 2017 to Oct 2025.
 #'
 #' @format A dataset with variables:
 #' \describe{
@@ -40,5 +40,5 @@
 #'
 #' @source U.S. Customs and Border Protection
 #'   <https://www.cbp.gov/document/stats/nationwide-encounters> (as of 5
-#'   September 2025).
+#'   Nov 2025).
 "irreg_usa"

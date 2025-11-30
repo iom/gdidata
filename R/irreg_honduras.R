@@ -1,7 +1,7 @@
 #' Irregular Migrant Arrivals to Honduras
 #'
 #' Irregular migrant arrivals to Honduras as reported by the government. Covers
-#' Jan 2018 to Aug 2025.
+#' Jan 2018 to Oct 2025.
 #'
 #' @format A dataset with variables:
 #' \describe{
@@ -11,14 +11,14 @@
 #'
 #' @source Honduras National Institute for Migration
 #'   <https://app.powerbi.com/view?r=eyJrIjoiODNhMGY4MGUtM2NkMy00YTIzLTlmZTAtNmQxZmJiZDhiZjc1IiwidCI6ImUxMWQ5NjIwLTRkM2UtNDEwYi05MTUyLWZkMWNmNmNmNzI5YSJ9>
-#'   (accessed 30 Sep 2025); DTM Americas.
+#'   (accessed 30 Nov 2025); DTM Americas.
 "irreg_honduras"
 
 
 #' Irregular Migrant Arrivals to Honduras: Nationalities
 #'
 #' Irregular migrant arrivals to Honduras as reported by the government, by
-#' nationality. Covers Jan 2018 to Aug 2025.
+#' nationality. Covers Jan 2018 to Oct 2025.
 #'
 #' @format A dataset with variables:
 #' \describe{
@@ -29,14 +29,14 @@
 #'
 #' @source Honduras National Institute for Migration
 #'   <https://app.powerbi.com/view?r=eyJrIjoiODNhMGY4MGUtM2NkMy00YTIzLTlmZTAtNmQxZmJiZDhiZjc1IiwidCI6ImUxMWQ5NjIwLTRkM2UtNDEwYi05MTUyLWZkMWNmNmNmNzI5YSJ9>
-#'   (accessed 30 Sep 2025); DTM Americas.
+#'   (accessed 30 Nov 2025); DTM Americas.
 "irreg_honduras_nat"
 
 
 #' Irregular Migrant Arrivals to Honduras: Demographics
 #'
 #' Irregular migrant arrivals to Honduras as reported by the government, by sex
-#' and age. Covers Jan 2018 to Aug 2025.
+#' and age. Covers Jan 2018 to Oct 2025.
 #'
 #' @format A dataset with variables:
 #' \describe{
@@ -47,6 +47,6 @@
 #'
 #' @source Honduras National Institute for Migration
 #'   <https://app.powerbi.com/view?r=eyJrIjoiODNhMGY4MGUtM2NkMy00YTIzLTlmZTAtNmQxZmJiZDhiZjc1IiwidCI6ImUxMWQ5NjIwLTRkM2UtNDEwYi05MTUyLWZkMWNmNmNmNzI5YSJ9>
-#'   (accessed 30 Sep 2025); DTM Americas.
+#'   (accessed 30 Nov 2025); DTM Americas.
 "irreg_honduras_dmg"
 

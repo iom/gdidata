@@ -6,7 +6,7 @@
 #' channeled by this same authority to the shelters of the *Sistema Nacional
 #' para el Desarrollo Integral de la Familia* (DIF) network, with PAM initiated,
 #' by nationality. See `irreg_mexico_dmg` for the same dataset with breakdown by
-#' sex and age. Covers Jan 2018 to Aug 2025.
+#' sex and age. Covers Jan 2018 to Sep 2025.
 #'
 #' @format A dataset with variables:
 #' \describe{
@@ -30,7 +30,7 @@
 #' channeled by this same authority to the shelters of the *Sistema Nacional para
 #' el Desarrollo Integral de la Familia* (DIF) network, with PAM initiated, by
 #' sex and age. See `irreg_mexico_nat` for the same dataset with breakdown by country
-#' of origin. Covers Jan 2018 to Aug 2025.
+#' of origin. Covers Jan 2018 to Sep 2025.
 #'
 #' @format A dataset with variables:
 #' \describe{
@@ -53,7 +53,7 @@
 #' Expulsions from Mexico
 #'
 #' Count of foreigners expelled from Mexico either through deportation or
-#' assisted return, by nationality. Covers Jan 2018 to Aug 2025.
+#' assisted return, by nationality. Covers Jan 2018 to Sep 2025.
 #'
 #' @format A dataset with variables:
 #' \describe{

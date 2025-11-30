@@ -29,7 +29,7 @@ Migratorio} (PAM) was initiated before the \emph{Instituto Nacional de Migració
 channeled by this same authority to the shelters of the \emph{Sistema Nacional para
 el Desarrollo Integral de la Familia} (DIF) network, with PAM initiated, by
 sex and age. See \code{irreg_mexico_nat} for the same dataset with breakdown by country
-of origin. Covers Jan 2018 to Aug 2025.
+of origin. Covers Jan 2018 to Sep 2025.
 }
 \details{
 Possible values for \code{age} are "under 12, accompanied", "under 12,

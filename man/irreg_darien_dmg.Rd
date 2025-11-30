@@ -14,14 +14,14 @@ A dataset with variables:
 }
 \source{
 Panama Servicio Nacional de Migración [National Migration Service]
-\url{https://www.migracion.gob.pa/estadisticas/} (downloaded 19 Sep 2025).
+\url{https://www.migracion.gob.pa/estadisticas/} (downloaded 28 Nov 2025).
 }
 \usage{
 irreg_darien_dmg
 }
 \description{
 Monthly count of irregular transits through the Darién region of Panama, by
-sex and age. Available from Jan 2021 to Aug 2025. See \code{irreg_darien_nat} for
+sex and age. Available from Jan 2021 to Sep 2025. See \code{irreg_darien_nat} for
 the same dataset with breakdown by nationality.
 }
 \details{

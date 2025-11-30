@@ -5,19 +5,19 @@
 \alias{frontex}
 \title{Monthly Detections of Illegal Border Crossings}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 35073 rows and 5 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 35259 rows and 5 columns.
 }
 \source{
 European Border and Coast Guard Agency (Frontex)
 \url{https://www.frontex.europa.eu/what-we-do/monitoring-and-risk-analysis/migratory-map/}
-(updated 3 Oct 2025).
+(updated 3 Nov 2025).
 }
 \usage{
 frontex
 }
 \description{
 Government detections of illegal border crossings into Mediterranean
-countries, as compiled by Frontex. Available from Jan 2009 to Aug 2025.
+countries, as compiled by Frontex. Available from Jan 2009 to Sep 2025.
 }
 \details{
 \describe{

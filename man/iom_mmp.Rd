@@ -11,7 +11,8 @@ A dataset with variables:
 \item{m}{month-year of incident}
 \item{type}{incident, split, cumulative}
 \item{geo}{country of incident (ISO-3)}
-\item{dead}{number of dead or missing}
+\item{dead}{number of dead}
+\item{missing}{number of missing}
 \item{cause}{cause of death}
 \item{survive}{number of survivors (if available)}
 \item{nat}{country/ies of origin of dead and missing}

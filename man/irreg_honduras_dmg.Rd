@@ -15,13 +15,13 @@ A dataset with variables:
 \source{
 Honduras National Institute for Migration
 \url{https://app.powerbi.com/view?r=eyJrIjoiODNhMGY4MGUtM2NkMy00YTIzLTlmZTAtNmQxZmJiZDhiZjc1IiwidCI6ImUxMWQ5NjIwLTRkM2UtNDEwYi05MTUyLWZkMWNmNmNmNzI5YSJ9}
-(accessed 30 Sep 2025); DTM Americas.
+(accessed 30 Nov 2025); DTM Americas.
 }
 \usage{
 irreg_honduras_dmg
 }
 \description{
 Irregular migrant arrivals to Honduras as reported by the government, by sex
-and age. Covers Jan 2018 to Aug 2025.
+and age. Covers Jan 2018 to Oct 2025.
 }
 \keyword{datasets}

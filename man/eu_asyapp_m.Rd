@@ -16,14 +16,14 @@ A dataset with variables:
 }
 }
 \source{
-Eurostat (downloaded 22 Sep 2025).
+Eurostat (downloaded 30 Nov 2025).
 }
 \usage{
 eu_asyapp_m
 }
 \description{
 First time asylum application in the EU, by applicant's nationality.
-Available from Jan 2018 to Jun 2025.
+Available from Jan 2018 to Aug 2025.
 }
 \details{
 Downloaded through the Eurostat API with the dataset key
